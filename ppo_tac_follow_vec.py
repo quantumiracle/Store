@@ -11,15 +11,14 @@ import gym, threading, queue
 from gym_unity.envs import UnityEnv
 import argparse
 from PIL import Image
-from img_pro_con2 import *
 
 
 
 # from env import Reacher
 
 
-EP_MAX = 1000
-EP_LEN = 80
+EP_MAX = 100000
+EP_LEN = 99
 N_WORKER = 1                # parallel workers
 GAMMA = 0.9                 # reward discount factor
 A_LR = 0.0001               # learning rate for actor
@@ -28,9 +27,10 @@ MIN_BATCH_SIZE = 10         # minimum batch size for updating PPO
 UPDATE_STEP = 3            # loop update operation n-steps
 EPSILON = 0.2               # for clipping surrogate objective
 S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
-VS_DIM = 6  # dim of vector state
+NUM_PINS = 91  #127
+VS_DIM = 3*(2+NUM_PINS)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./Tac_Follow_r30"  # Name of the Unity environment binary to launch
+env_name = "./tac_follow"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -163,46 +163,11 @@ class PPO(object):
 class Worker(object):
     def __init__(self, wid):
         self.wid = wid
-        self.env = UnityEnv(env_name, worker_id=wid, use_visual=True, use_both=True)
+        self.env = UnityEnv(env_name, worker_id=wid, use_visual=False, use_both=True)
 
         # self.env=Reacher(render=True)
         self.ppo = GLOBAL_PPO
 
-        self.pins_x=[]
-        self.pins_y=[]
-
-    def ImgProcess(self, img, Done=False):
-        cimg, edge_detected_image, contour_centers = image_processing(img)
-        cimg = large_circle_detect(cimg, edge_detected_image)
-        cimg, VALID_DETECT = contour_center_check(contour_centers, cimg, NUM_PINS=NUM_PINS)
-        # cv2.imwrite(save_path+str(filename),cimg)
-        contour_centers = CenterRegister(contour_centers)
-
-        if VALID_DETECT:  # pins detection correct
-            reshape_contour_centers = np.array(contour_centers).transpose()
-            self.pins_x.append(reshape_contour_centers[0])
-            self.pins_y.append(reshape_contour_centers[1])
-
-        reshape_pins_x = np.array(self.pins_x).transpose()
-        reshape_pins_y = np.array(self.pins_y).transpose()
-        displacement_pins_x = self.pins_x[-1]-self.pins_x[0]
-        displacement_pins_y = self.pins_y[-1]-self.pins_y[0]
-        
-        
-        plt.figure(1)
-        for i in range(NUM_PINS):
-            plt.subplot(211)
-            plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i])
-            plt.title('Position')
-            plt.subplot(212)
-            plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-reshape_pins_x[i][0])
-            plt.title('Displacement')
-            plt.tight_layout()
-        plt.savefig('./ppo_pins.png')
-        if Done:
-            plt.clf()  # not clear the figure yet!
-        # return pins position x, y for current frame, displacement of pins position x,y
-        return self.pins_x[-1], self.pins_y[-1], displacement_pins_x, displacement_pins_y
 
     def work(self):
         global GLOBAL_EP, GLOBAL_RUNNING_R, GLOBAL_UPDATE_COUNTER
@@ -211,60 +176,42 @@ class Worker(object):
         step=0
         while not COORD.should_stop():
             s, info= self.env.reset()
-            ''''''
-            vector_s = info["brain_info"].vector_observations[0, :]  # get the vector observation
-            s=vector_s
-            # print(s.shape, info["brain_info"].vector_observations[0, :])  
             step+=1
             ep_r = 0
             buffer_s, buffer_a, buffer_r = [], [], []
             self.pins_x=[]
             self.pins_y=[]
+            self.pins_z=[]
+            self.object_x=[]
+            self.object_y=[]
+            self.object_z=[]
             for t in range(EP_LEN):
                 if not ROLLING_EVENT.is_set():                  # while global PPO is updating
                     ROLLING_EVENT.wait()                        # wait until PPO is updated
                     buffer_s, buffer_a, buffer_r = [], [], []   # clear history buffer, use new policy to collect data
                 a = self.ppo.choose_action(s)
                 s_, r, done, info= self.env.step(a)
-                print(np.array(s_).shape)
-                if t %2 == 0:
-                    
-                    ''' implementation of plot version one, deprecated '''
-                    # plt.imshow(s_[:,:,0])
-                    # # plt.show()
-                    # plt.savefig('./img256_test/tac_test'+str(step)+str(t)+'.png')
+                # print(np.array(s_).shape)
 
-                    ''' 
-                    image size of plt is not exactly the original array size, but with axis etc;
-                    therefore use Image--imlementation of plot version two
-                    '''
-                    # im = Image.fromarray((s_[:,:,0] * 255).astype(np.uint8))
-                    # im.save('./img256f_r30/tac'+str(step)+str(t)+'.png')
+                # plot pins
 
-                    ''' image processing '''
-                    # img = (s_[:,:,0] * 255).astype(np.uint8)
-                    # if t > EP_LEN-1:
-                    #     Done = True
-                    # else:
-                    #     Done = False
-                    # try:
-                    #     dis_x, dis_y = self.ImgProcess(img, Done)
-                    # except:
-                    #     print('Image Processing Error!')
-                
-                ''' get the vector observation '''
-                vector_s = info["brain_info"].vector_observations[0, :]  # get the vector observation
-                s_=vector_s
+                pins_x = s[6::3]
+                pins_z = s[8::3]
+                self.object_x.append(s[0]) 
+                self.object_z.append(s[2])
+                self.pins_x.append(pins_x)
+                self.pins_z.append(pins_z)
+
+
                 # print('a: ',a)  # shape: []
                 # print('s: ',s_) # shape: []
                 # plt.imshow(s[:,:,0])
                 # plt.show()
                 # print('r: ',r) # shape: scalar
                 # print('done: ', done)  # shape: True/False
-                s=s.reshape(-1)  # convert from 3D to 1D
                 buffer_s.append(s)
                 buffer_a.append(a)
-                buffer_r.append((r + 8) / 8)                    # normalize reward, find to be useful
+                buffer_r.append(r)                    # normalize reward, find to be useful
                 s = s_
                 ep_r += r
 
@@ -288,6 +235,33 @@ class Worker(object):
                         COORD.request_stop()
                         break
 
+            if GLOBAL_EP%50==0 and GLOBAL_EP>0:
+                self.ppo.save(model_path)
+
+            reshape_pins_x = np.array(self.pins_x).transpose()
+            reshape_pins_z = np.array(self.pins_z).transpose()
+            plt.clf()
+            for i in range(NUM_PINS):
+                plt.subplot(411)
+                plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i])
+                plt.title('X-Position')
+                plt.subplot(412)
+                plt.plot(np.arange(len(self.pins_z)), reshape_pins_z[i])
+                plt.title('Y-Position')  # although it's z, to match reality, use y
+                plt.subplot(413)
+                # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-self.object_x)
+                # plt.title('X-Relative')
+                # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-reshape_pins_x[i][0])
+                # plt.title('X-Displacement')
+                plt.plot(np.arange(len(self.pins_x)), (reshape_pins_x[i]-self.object_x)-(reshape_pins_x[i][0]-self.object_x[0]))
+                plt.title('X-Displacement')
+
+                plt.subplot(414)
+                plt.plot(np.arange(len(self.pins_x)), (reshape_pins_z[i]-self.object_z)-(reshape_pins_z[i][0]-self.object_z[0]))
+                plt.title('Y-Displacement')
+                plt.xlabel('Time Step')
+                plt.tight_layout()
+            plt.savefig('./ppo_pins.png')
                     
 
 
@@ -300,9 +274,12 @@ class Worker(object):
             # print(step)
             epr_set.append(ep_r)
             if step % 10==0:  # plot every N episode; some error about main thread for plotting
+                plt.clf()
                 plt.plot(step_set,epr_set)
+                plt.xlabel('Episode')
+                plt.ylabel('Reward')
                 try:
-                    plt.savefig('./tac.png')
+                    plt.savefig('./tac_pins.png')
                 except:
                     print('writing conflict!')
                 
@@ -310,7 +287,7 @@ class Worker(object):
 
 
 if __name__ == '__main__':
-    model_path = './model/tac_test'
+    model_path = './model/tac_pins'
     if args.train:
         GLOBAL_PPO = PPO()
         UPDATE_EVENT, ROLLING_EVENT = threading.Event(), threading.Event()
@@ -349,7 +326,7 @@ if __name__ == '__main__':
         GLOBAL_PPO.save(model_path)
 
     if args.test:
-        env = UnityEnv(env_name, worker_id=np.random.randint(0,10), use_visual=True, use_both=True)
+        env = UnityEnv(env_name, worker_id=np.random.randint(0,10), use_visual=False, use_both=True)
         env.reset()
         GLOBAL_PPO = PPO()
         GLOBAL_PPO.load(model_path)
