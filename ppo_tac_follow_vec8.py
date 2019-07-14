@@ -12,7 +12,6 @@ from gym_unity.envs import UnityEnv
 import argparse
 from PIL import Image
 import time
-from deform_visualize import plot_deform
 
 
 
@@ -30,7 +29,7 @@ UPDATE_STEP = 3            # loop update operation n-steps
 EPSILON = 0.2               # for clipping surrogate objective
 S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
-VS_DIM = 3*(2+NUM_PINS)  # dim of vector state
+VS_DIM = 4*(2)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
 env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
@@ -178,6 +177,7 @@ class Worker(object):
         step=0
         while not COORD.should_stop():
             s, info= self.env.reset()
+            s=s[:8]
             step+=1
             ep_r = 0
             buffer_s, buffer_a, buffer_r = [], [], []
@@ -191,29 +191,36 @@ class Worker(object):
                 if not ROLLING_EVENT.is_set():                  # while global PPO is updating
                     ROLLING_EVENT.wait()                        # wait until PPO is updated
                     buffer_s, buffer_a, buffer_r = [], [], []   # clear history buffer, use new policy to collect data
+
                 a = self.ppo.choose_action(s)
                 s_, r, done, info= self.env.step(a)
                 # print(np.array(s_).shape)
 
                 # plot pins
-                pins_x = s[6::3]
-                pins_z = s[8::3]
-                self.object_x.append(s[0]) 
-                self.object_z.append(s[2])
-                self.pins_x.append(pins_x)
-                self.pins_z.append(pins_z)
                 buffer_s.append(s)
                 buffer_a.append(a)
                 buffer_r.append(r)                    # normalize reward, find to be useful
+
+                pins_x = s_[6::3]
+                pins_z = s_[8::3]
+                self.object_x.append(s_[0]) 
+                self.object_z.append(s_[2])
+                self.pins_x.append(pins_x)
+                self.pins_z.append(pins_z)
+
+                relative_x=pins_x-s_[0]
+                relative_z=pins_z-s_[2]
+                dis = (relative_x - (self.pins_x[0]-self.object_x[0]))**2 + (relative_z - (self.pins_z[0]-self.object_z[0]))**2
+                min_idx = np.argmin(dis)
+                max_idx = np.argmax(dis)
+                # add relative position of the pin with smallest deformation
+                s_ = np.append(s_[:6], relative_x[min_idx])
+                s_ = np.append(s_, relative_z[min_idx])
                 s = s_
                 ep_r += r
 
-                # get the pin with minimal displacement 
-                dis = ((pins_x-s[0]) - (self.pins_x[0]-self.object_x[0]))**2 + ((pins_z-s[2]) - (self.pins_z[0]-self.object_z[0]))**2
-                min_idx = np.argmin(dis)
-                max_idx = np.argmax(dis)
-                print('minimal displacement idx: ', min_idx)
-                plot_deform(min_idx, max_idx)
+
+                # print('minimal displacement idx: ', min_idx)
 
                 GLOBAL_UPDATE_COUNTER += 1                      # count to minimum batch size, no need to wait other workers
                 if t == EP_LEN - 1 or GLOBAL_UPDATE_COUNTER >= MIN_BATCH_SIZE:
