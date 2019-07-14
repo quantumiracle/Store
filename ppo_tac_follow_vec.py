@@ -31,7 +31,7 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
 VS_DIM = 3*(2+NUM_PINS)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./tac_follow"  # Name of the Unity environment binary to launch
+env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -133,7 +133,7 @@ class PPO(object):
             encoded = self.tfs
             l1 = tf.layers.dense(encoded, 200, tf.nn.tanh, trainable=trainable)
             l2 = tf.layers.dense(l1, 200, tf.nn.tanh, trainable=trainable)
-            action_scale = 5.0
+            action_scale = 2.0
             mu = action_scale * tf.layers.dense(l1, A_DIM, tf.nn.tanh, trainable=trainable)
             sigma = tf.layers.dense(l1, A_DIM, tf.nn.softplus, trainable=trainable)
             sigma +=1e-3 # without this line, 0 value sigma may cause NAN action
@@ -195,21 +195,12 @@ class Worker(object):
                 # print(np.array(s_).shape)
 
                 # plot pins
-
                 pins_x = s[6::3]
                 pins_z = s[8::3]
                 self.object_x.append(s[0]) 
                 self.object_z.append(s[2])
                 self.pins_x.append(pins_x)
                 self.pins_z.append(pins_z)
-
-
-                # print('a: ',a)  # shape: []
-                # print('s: ',s_) # shape: []
-                # plt.imshow(s[:,:,0])
-                # plt.show()
-                # print('r: ',r) # shape: scalar
-                # print('done: ', done)  # shape: True/False
                 buffer_s.append(s)
                 buffer_a.append(a)
                 buffer_r.append(r)                    # normalize reward, find to be useful
@@ -312,19 +303,6 @@ if __name__ == '__main__':
         threads[-1].start()
         COORD.join(threads)
 
-        # plot reward change and test
-        # plt.plot(np.arange(len(GLOBAL_RUNNING_R)), GLOBAL_RUNNING_R)
-        # plt.xlabel('Episode'); plt.ylabel('Moving reward'); plt.ion(); plt.show()
-        
-        # env = gym.make('Pendulum-v0')
-        # env=Reacher(render=True)
-        # env = UnityEnv(env_name, worker_id=10, use_visual=True, use_both=True)
-
-        # s, info = env.reset()
-        # for t in range(100):
-        #     # env.render()
-        #     s, r, done, info = env.step(GLOBAL_PPO.choose_action(s))
-
         GLOBAL_PPO.save(model_path)
 
     if args.test:
@@ -332,20 +310,15 @@ if __name__ == '__main__':
         env.reset()
         GLOBAL_PPO = PPO()
         GLOBAL_PPO.load(model_path)
-        test_steps = 200
+        test_steps = 99
         test_episode = 10
         
 
         for _ in range(test_episode):
             s, info = env.reset()
-            ''''''
-            vector_s = info["brain_info"].vector_observations[0, :]  # get the vector observation
-            s=vector_s
             for t in range(test_steps):
                 # env.render()
                 s, r, done, info = env.step(GLOBAL_PPO.choose_action(s))
-                ''''''
-                vector_s = info["brain_info"].vector_observations[0, :]  # get the vector observation
-                s=vector_s
+      
 
 
