@@ -11,6 +11,7 @@ import gym, threading, queue
 from gym_unity.envs import UnityEnv
 import argparse
 from PIL import Image
+import time
 
 
 
@@ -79,6 +80,8 @@ class PPO(object):
 
         self.atrain_op = tf.train.AdamOptimizer(A_LR).minimize(self.aloss)
         self.sess.run(tf.global_variables_initializer())
+        self.saver = tf.train.Saver()
+
 
     # def maxpool2d(x, k=2):
     #     # MaxPool2D wrapper
@@ -133,7 +136,7 @@ class PPO(object):
             action_scale = 5.0
             mu = action_scale * tf.layers.dense(l1, A_DIM, tf.nn.tanh, trainable=trainable)
             sigma = tf.layers.dense(l1, A_DIM, tf.nn.softplus, trainable=trainable)
-            sigma +=1e-1 # without this line, 0 value sigma may cause NAN action
+            sigma +=1e-3 # without this line, 0 value sigma may cause NAN action
             # print('mu,sig: ', mu, sigma)
             norm_dist = tf.distributions.Normal(loc=mu, scale=sigma)
         params = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope=name)
@@ -150,12 +153,10 @@ class PPO(object):
 
 
     def save(self, path):
-            saver = tf.train.Saver()
-            saver.save(self.sess, path)
+            self.saver.save(self.sess, path)
 
     def load(self, path):
-            saver=tf.train.Saver()
-            saver.restore(self.sess, path)
+            self.saver.restore(self.sess, path)
 
 
 
@@ -289,6 +290,7 @@ class Worker(object):
 if __name__ == '__main__':
     model_path = './model/tac_pins'
     if args.train:
+        time=time.time()
         GLOBAL_PPO = PPO()
         UPDATE_EVENT, ROLLING_EVENT = threading.Event(), threading.Event()
         UPDATE_EVENT.clear()            # not update now
