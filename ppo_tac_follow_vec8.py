@@ -31,7 +31,7 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
 VS_DIM = 4*(2)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
+env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -214,8 +214,11 @@ class Worker(object):
                 min_idx = np.argmin(dis)
                 max_idx = np.argmax(dis)
                 # add relative position of the pin with smallest deformation
-                s_ = np.append(s_[:6], relative_x[min_idx])
-                s_ = np.append(s_, relative_z[min_idx])
+                # s_ = np.append(s_[:6], relative_x[min_idx])
+                # s_ = np.append(s_, relative_z[min_idx])
+
+                s_ = np.append(s_[:6], relative_x[max_idx])
+                s_ = np.append(s_, relative_z[max_idx])
                 s = s_
                 ep_r += r
 
