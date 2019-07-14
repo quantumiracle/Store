@@ -32,7 +32,7 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
 VS_DIM = 3*(2+NUM_PINS)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
+env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -134,10 +134,10 @@ class PPO(object):
             encoded = self.tfs
             l1 = tf.layers.dense(encoded, 200, tf.nn.tanh, trainable=trainable)
             l2 = tf.layers.dense(l1, 200, tf.nn.tanh, trainable=trainable)
-            action_scale = 2.0
+            action_scale = 5.0
             mu = action_scale * tf.layers.dense(l1, A_DIM, tf.nn.tanh, trainable=trainable)
             sigma = tf.layers.dense(l1, A_DIM, tf.nn.softplus, trainable=trainable)
-            sigma +=1e-3 # without this line, 0 value sigma may cause NAN action
+            sigma +=1e-1 # without this line, 0 value sigma may cause NAN action
             # print('mu,sig: ', mu, sigma)
             norm_dist = tf.distributions.Normal(loc=mu, scale=sigma)
         params = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope=name)
@@ -165,7 +165,7 @@ class PPO(object):
 class Worker(object):
     def __init__(self, wid):
         self.wid = wid
-        self.env = UnityEnv(env_name, worker_id=wid+15, use_visual=False, use_both=True)
+        self.env = UnityEnv(env_name, worker_id=wid+25, use_visual=False, use_both=True)
 
         # self.env=Reacher(render=True)
         self.ppo = GLOBAL_PPO
@@ -280,7 +280,7 @@ class Worker(object):
                 plt.xlabel('Episode')
                 plt.ylabel('Reward')
                 try:
-                    plt.savefig('./tac_pins.png')
+                    plt.savefig('./tac_pins_2.png')
                 except:
                     print('writing conflict!')
                 
@@ -288,7 +288,7 @@ class Worker(object):
 
 
 if __name__ == '__main__':
-    model_path = './model/tac_pins'
+    model_path = './model/tac_pins_2'
     if args.train:
         time=time.time()
         GLOBAL_PPO = PPO()
