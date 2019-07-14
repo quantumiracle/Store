@@ -1,2 +1,2 @@
-model_checkpoint_path: "tac_pins"
-all_model_checkpoint_paths: "tac_pins"
+model_checkpoint_path: "tac_pins6"
+all_model_checkpoint_paths: "tac_pins6"
