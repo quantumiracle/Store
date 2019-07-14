@@ -280,7 +280,7 @@ class Worker(object):
                 plt.xlabel('Episode')
                 plt.ylabel('Reward')
                 try:
-                    plt.savefig('./tac_pins.png')
+                    plt.savefig('./tac_pins_2.png')
                 except:
                     print('writing conflict!')
                 
@@ -288,7 +288,7 @@ class Worker(object):
 
 
 if __name__ == '__main__':
-    model_path = './model/tac_pins'
+    model_path = './model/tac_pins_2'
     if args.train:
         time=time.time()
         GLOBAL_PPO = PPO()
