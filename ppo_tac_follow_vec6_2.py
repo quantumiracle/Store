@@ -29,7 +29,7 @@ UPDATE_STEP = 3            # loop update operation n-steps
 EPSILON = 0.2               # for clipping surrogate objective
 S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
-VS_DIM = 4*(2)  # dim of vector state
+VS_DIM = 3*(2)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
 env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
@@ -133,10 +133,10 @@ class PPO(object):
             encoded = self.tfs
             l1 = tf.layers.dense(encoded, 200, tf.nn.tanh, trainable=trainable)
             l2 = tf.layers.dense(l1, 200, tf.nn.tanh, trainable=trainable)
-            action_scale = 2.0
+            action_scale = 5.0
             mu = action_scale * tf.layers.dense(l1, A_DIM, tf.nn.tanh, trainable=trainable)
             sigma = tf.layers.dense(l1, A_DIM, tf.nn.softplus, trainable=trainable)
-            sigma +=1e-3 # without this line, 0 value sigma may cause NAN action
+            sigma +=1e-1 # without this line, 0 value sigma may cause NAN action
             # print('mu,sig: ', mu, sigma)
             norm_dist = tf.distributions.Normal(loc=mu, scale=sigma)
         params = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope=name)
@@ -177,7 +177,7 @@ class Worker(object):
         step=0
         while not COORD.should_stop():
             s, info= self.env.reset()
-            s=s[:8]
+            s=s[:6]  # only no pins 
             step+=1
             ep_r = 0
             buffer_s, buffer_a, buffer_r = [], [], []
@@ -191,39 +191,24 @@ class Worker(object):
                 if not ROLLING_EVENT.is_set():                  # while global PPO is updating
                     ROLLING_EVENT.wait()                        # wait until PPO is updated
                     buffer_s, buffer_a, buffer_r = [], [], []   # clear history buffer, use new policy to collect data
-
                 a = self.ppo.choose_action(s)
                 s_, r, done, info= self.env.step(a)
+                s_=s_[:6]
                 # print(np.array(s_).shape)
 
-                # plot pins
+
+                # pins_x = s[6::3]
+                # pins_z = s[8::3]
+                # self.object_x.append(s[0]) 
+                # self.object_z.append(s[2])
+                # self.pins_x.append(pins_x)
+                # self.pins_z.append(pins_z)
+
                 buffer_s.append(s)
                 buffer_a.append(a)
                 buffer_r.append(r)                    # normalize reward, find to be useful
-
-                pins_x = s_[6::3]
-                pins_z = s_[8::3]
-                self.object_x.append(s_[0]) 
-                self.object_z.append(s_[2])
-                self.pins_x.append(pins_x)
-                self.pins_z.append(pins_z)
-
-                relative_x=pins_x-s_[0]
-                relative_z=pins_z-s_[2]
-                dis = (relative_x - (self.pins_x[0]-self.object_x[0]))**2 + (relative_z - (self.pins_z[0]-self.object_z[0]))**2
-                min_idx = np.argmin(dis)
-                max_idx = np.argmax(dis)
-                # add relative position of the pin with smallest deformation
-                # s_ = np.append(s_[:6], relative_x[min_idx])
-                # s_ = np.append(s_, relative_z[min_idx])
-
-                s_ = np.append(s_[:6], relative_x[max_idx])
-                s_ = np.append(s_, relative_z[max_idx])
                 s = s_
                 ep_r += r
-
-
-                # print('minimal displacement idx: ', min_idx)
 
                 GLOBAL_UPDATE_COUNTER += 1                      # count to minimum batch size, no need to wait other workers
                 if t == EP_LEN - 1 or GLOBAL_UPDATE_COUNTER >= MIN_BATCH_SIZE:
@@ -245,34 +230,33 @@ class Worker(object):
                         COORD.request_stop()
                         break
 
-
             if GLOBAL_EP%50==0 and GLOBAL_EP>0:
                 self.ppo.save(model_path)
 
-            reshape_pins_x = np.array(self.pins_x).transpose()
-            reshape_pins_z = np.array(self.pins_z).transpose()
-            plt.clf()
-            for i in range(NUM_PINS):
-                plt.subplot(411)
-                plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i])
-                plt.title('X-Position')
-                plt.subplot(412)
-                plt.plot(np.arange(len(self.pins_z)), reshape_pins_z[i])
-                plt.title('Y-Position')  # although it's z, to match reality, use y
-                plt.subplot(413)
-                # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-self.object_x)
-                # plt.title('X-Relative')
-                # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-reshape_pins_x[i][0])
-                # plt.title('X-Displacement')
-                plt.plot(np.arange(len(self.pins_x)), (reshape_pins_x[i]-self.object_x)-(reshape_pins_x[i][0]-self.object_x[0]))
-                plt.title('X-Displacement')
+            # reshape_pins_x = np.array(self.pins_x).transpose()
+            # reshape_pins_z = np.array(self.pins_z).transpose()
+            # plt.clf()
+            # for i in range(NUM_PINS):
+            #     plt.subplot(411)
+            #     plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i])
+            #     plt.title('X-Position')
+            #     plt.subplot(412)
+            #     plt.plot(np.arange(len(self.pins_z)), reshape_pins_z[i])
+            #     plt.title('Y-Position')  # although it's z, to match reality, use y
+            #     plt.subplot(413)
+            #     # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-self.object_x)
+            #     # plt.title('X-Relative')
+            #     # plt.plot(np.arange(len(self.pins_x)), reshape_pins_x[i]-reshape_pins_x[i][0])
+            #     # plt.title('X-Displacement')
+            #     plt.plot(np.arange(len(self.pins_x)), (reshape_pins_x[i]-self.object_x)-(reshape_pins_x[i][0]-self.object_x[0]))
+            #     plt.title('X-Displacement')
 
-                plt.subplot(414)
-                plt.plot(np.arange(len(self.pins_x)), (reshape_pins_z[i]-self.object_z)-(reshape_pins_z[i][0]-self.object_z[0]))
-                plt.title('Y-Displacement')
-                plt.xlabel('Time Step')
-                plt.tight_layout()
-            plt.savefig('./ppo_pins.png')
+            #     plt.subplot(414)
+            #     plt.plot(np.arange(len(self.pins_x)), (reshape_pins_z[i]-self.object_z)-(reshape_pins_z[i][0]-self.object_z[0]))
+            #     plt.title('Y-Displacement')
+            #     plt.xlabel('Time Step')
+            #     plt.tight_layout()
+            # plt.savefig('./ppo_pins.png')
                     
 
 
@@ -290,7 +274,7 @@ class Worker(object):
                 plt.xlabel('Episode')
                 plt.ylabel('Reward')
                 try:
-                    plt.savefig('./tac_pins.png')
+                    plt.savefig('./tac_pins6.png')
                 except:
                     print('writing conflict!')
                 
@@ -298,7 +282,7 @@ class Worker(object):
 
 
 if __name__ == '__main__':
-    model_path = './model/tac_pins'
+    model_path = './model/tac_pins6'
     if args.train:
         time=time.time()
         GLOBAL_PPO = PPO()
@@ -336,8 +320,7 @@ if __name__ == '__main__':
         for _ in range(test_episode):
             s, info = env.reset()
             for t in range(test_steps):
-                # env.render()
+                s=s[:6]
                 s, r, done, info = env.step(GLOBAL_PPO.choose_action(s))
       
-
 
