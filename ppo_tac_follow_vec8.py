@@ -31,7 +31,8 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
 VS_DIM = 4*(2)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
+# env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
+env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -290,7 +291,7 @@ class Worker(object):
                 plt.xlabel('Episode')
                 plt.ylabel('Reward')
                 try:
-                    plt.savefig('./tac_pins.png')
+                    plt.savefig('./tac_pins8.png')
                 except:
                     print('writing conflict!')
                 
@@ -298,7 +299,7 @@ class Worker(object):
 
 
 if __name__ == '__main__':
-    model_path = './model/tac_pins'
+    model_path = './model/tac_pins8'
     if args.train:
         time=time.time()
         GLOBAL_PPO = PPO()

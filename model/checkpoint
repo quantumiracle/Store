@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 model_checkpoint_path: "tac_pins6"
 all_model_checkpoint_paths: "tac_pins6"
+=======
+model_checkpoint_path: "tac_pins_2"
+all_model_checkpoint_paths: "tac_pins_2"
+>>>>>>> 4d00f944bfa0860e0c4bc7f75ea9f2fbc1651fda

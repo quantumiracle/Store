@@ -165,7 +165,11 @@ class PPO(object):
 class Worker(object):
     def __init__(self, wid):
         self.wid = wid
+<<<<<<< HEAD
         self.env = UnityEnv(env_name, worker_id=wid+25, use_visual=False, use_both=True)
+=======
+        self.env = UnityEnv(env_name, worker_id=wid+28, use_visual=False, use_both=True)
+>>>>>>> 4d00f944bfa0860e0c4bc7f75ea9f2fbc1651fda
 
         # self.env=Reacher(render=True)
         self.ppo = GLOBAL_PPO
