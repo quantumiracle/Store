@@ -31,6 +31,7 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 NUM_PINS = 91  #127
 VS_DIM = 4*(2)  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
+# env_name = "./tac_follow2"  # Name of the Unity environment binary to launch
 env_name = "./tac_follow_new"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
