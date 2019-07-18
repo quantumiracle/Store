@@ -25,6 +25,7 @@ from IPython.display import display
 
 from gym_unity.envs import UnityEnv
 import argparse
+import time
 
 GPU = True
 device_idx = 0
@@ -297,15 +298,18 @@ class SAC_Trainer():
         return predicted_new_q_value.mean()
 
     def save_model(self, path):
-        torch.save(self.soft_q_net1.state_dict(), path)
-        torch.save(self.soft_q_net2.state_dict(), path)
-        torch.save(self.policy_net.state_dict(), path)
+        torch.save(self.soft_q_net1.state_dict(), path+'_q1')
+        torch.save(self.soft_q_net2.state_dict(), path+'_q2')
+        torch.save(self.policy_net.state_dict(), path+'_policy')
 
     def load_model(self, path):
-        self.soft_q_net1.load_state_dict(torch.load(path))
-        self.soft_q_net2.load_state_dict(torch.load(path))
-        self.policy_net.load_state_dict(torch.load(path))
+        self.soft_q_net1.load_state_dict(torch.load(path+'_q1'))
+        self.soft_q_net2.load_state_dict(torch.load(path+'_q2'))
+        self.policy_net.load_state_dict(torch.load(path+'_policy'))
 
+        self.soft_q_net1.eval()
+        self.soft_q_net2.eval()
+        self.policy_net.eval()
 
 def plot(rewards):
     clear_output(True)
@@ -326,16 +330,17 @@ model_path = './model/sac'
 
 
 # hyper-parameters for RL training
-max_episodes = 10000
+max_episodes = 50
 max_steps   = 100
 frame_idx   = 0
 batch_size  = 256
-explore_steps = 2000  # for random action sampling in the beginning of training
+explore_steps = 500  # for random action sampling in the beginning of training
 update_itr = 1
 AUTO_ENTROPY=True
 DETERMINISTIC=False
 hidden_dim = 128
 state_dim = 6
+# state_dim = 279
 action_dim = 2
 action_range=8.
 rewards     = []
@@ -372,7 +377,7 @@ if __name__ == '__main__':
                     for i in range(update_itr):
                         _=sac_trainer.update(batch_size, reward_scale=10., auto_entropy=AUTO_ENTROPY, target_entropy=-1.*action_dim)
                 
-                if eps % 10 == 0:
+                if eps % 10 == 0 and eps>0:
                     plot(rewards)
                     sac_trainer.save_model(model_path)
                 
@@ -380,7 +385,9 @@ if __name__ == '__main__':
                     break
             print('Episode: ', eps, '| Episode Reward: ', episode_reward)
             rewards.append(episode_reward)
-
+        env.close()
+        print(rewards)
+        time.sleep(10)
 
     if args.test:
         sac_trainer.load_model(model_path)
@@ -395,5 +402,6 @@ if __name__ == '__main__':
                 next_state = next_state[:6]
 
                 episode_reward += reward
+                state=next_state
 
             print('Episode: ', eps, '| Episode Reward: ', episode_reward)
