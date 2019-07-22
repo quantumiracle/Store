@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def plot_deform(min_idx, max_idx):
 
-    x=[5,7,9,11,13,15,
+    x=np.array([5,7,9,11,13,15,
     4,6,8,10,12,14,16,
     3,5,7,9,11,13,15,17,
     2, 4,6,8,10,12,14,16,18,
@@ -16,7 +16,7 @@ def plot_deform(min_idx, max_idx):
     3,5,7,9,11,13,15,17,
     4,6,8,10,12,14,16,
     5,7,9,11,13,15
-    ]
+    ])
 
     y=np.array([
         10,10,10,10,10,10,
@@ -37,7 +37,8 @@ def plot_deform(min_idx, max_idx):
     plt.scatter(x[min_idx], y[min_idx], c='g')
     plt.scatter(x[max_idx], y[max_idx], c='r')
     plt.savefig('./deform.png')
-    # plt.show()
+    plt.show()
+    plt.pause(0.1)
 
 
 if __name__ == '__main__':
