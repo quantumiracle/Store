@@ -325,6 +325,7 @@ replay_buffer = ReplayBuffer(replay_buffer_size)
 
 # choose env
 env_name="./tac_follow3"
+# env_name="./tac_follow3_random"
 env = UnityEnv(env_name, worker_id=18, use_visual=False, use_both=True)
 model_path = './model/sac'
 
