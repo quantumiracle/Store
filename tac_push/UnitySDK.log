@@ -1,0 +1,4332 @@
+22/07/2019 13:09:31
+ 
+Log
+displays connected: 1
+
+Exception
+IndexOutOfRangeException: Index was outside the bounds of the array.
+DisplayScript.Start () (at <3cd777bb0c56467795a234f3ece65c9c>:0)
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 33
+
+Log
+Collide: 27
+
+Log
+Collide: 22
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 20
+
+Log
+Collide: 18
+
+Log
+Collide: 27
+
+Log
+Collide: 27
+
+Log
+Collide: 22
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 32
+
+Log
+Collide: 30
+
+Log
+Collide: 30
+
+Log
+Collide: 30
+
+Log
+Collide: 24
+
+Log
+Collide: 24
+
+Log
+Collide: 12
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 22
+
+Log
+Collide: 10
+
+Log
+Collide: 13
+
+Log
+Collide: 12
+
+Log
+Collide: 12
+
+Log
+Collide: 19
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 28
+
+Log
+Collide: 32
+
+Log
+Collide: 33
+
+Log
+Finished!
+
+Log
+Collide: 29
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 16
+
+Log
+Finished!
+
+Log
+Collide: 26
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 19
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 3
+
+Log
+Finished!
+
+Log
+Collide: 18
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Collide: 32
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 31
+
+Log
+Collide: 30
+
+Log
+Collide: 26
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 11
+
+Log
+Collide: 24
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 3
+
+Log
+Collide: 27
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 4
+
+Log
+Collide: 30
+
+Log
+Collide: 32
+
+Log
+Finished!
+
+Log
+Collide: 25
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 11
+
+Log
+Collide: 19
+
+Log
+Collide: 33
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 5
+
+Log
+Collide: 11
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 15
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 29
+
+Log
+Finished!
+
+Log
+Collide: 27
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Collide: 23
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 26
+
+Log
+Collide: 34
+
+Log
+Finished!
+
+Log
+Collide: 31
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 4
+
+Log
+Collide: 25
+
+Log
+Finished!
+
+Log
+Collide: 12
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 12
+
+Log
+Collide: 24
+
+Log
+Collide: 25
+
+Log
+Finished!
+
+Log
+Collide: 16
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 13
+
+Log
+Finished!
+
+Log
+Collide: 18
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 28
+
+Log
+Finished!
+
+Log
+Collide: 30
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 19
+
+Log
+Finished!
+
+Log
+Collide: 33
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 31
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 33
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 13
+
+Log
+Collide: 21
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 6
+
+Log
+Collide: 33
+
+Log
+Collide: 28
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 15
+
+Log
+Collide: 30
+
+Log
+Collide: 14
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 8
+
+Log
+Collide: 34
+
+Log
+Collide: 10
+
+Log
+Finished!
+
+Log
+Collide: 26
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Collide: 15
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Collide: 3
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 15
+
+Log
+Collide: 25
+
+Log
+Finished!
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 24
+
+Log
+Collide: 34
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 32
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 3
+
+Log
+Collide: 15
+
+Log
+Collide: 29
+
+Log
+Collide: 24
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 24
+
+Log
+Collide: 25
+
+Log
+Finished!
+
+Log
+Collide: 28
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 11
+
+Log
+Collide: 11
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Collide: 23
+
+Log
+Collide: 19
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 5
+
+Log
+Collide: 6
+
+Log
+Collide: 21
+
+Log
+Collide: 8
+
+Log
+Collide: 29
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 1
+
+Log
+Collide: 26
+
+Log
+Collide: 25
+
+Log
+Collide: 4
+
+Log
+Collide: 6
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 12
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 12
+
+Log
+Collide: 20
+
+Log
+Collide: 22
+
+Log
+Collide: 31
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 15
+
+Log
+Collide: 30
+
+Log
+Collide: 19
+
+Log
+Collide: 9
+
+Log
+Collide: 28
+
+Log
+Collide: 23
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 7
+
+Log
+Collide: 33
+
+Log
+Collide: 34
+
+Log
+Collide: 30
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Collide: 10
+
+Log
+Collide: 29
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 29
+
+Log
+Collide: 31
+
+Log
+Collide: 33
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 23
+
+Log
+Collide: 5
+
+Log
+Collide: 32
+
+Log
+Collide: 32
+
+Log
+Collide: 22
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 31
+
+Log
+Collide: 16
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 32
+
+Log
+Collide: 25
+
+Log
+Collide: 29
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 31
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 34
+
+Log
+Collide: 21
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 23
+
+Log
+Collide: 14
+
+Log
+Collide: 14
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 27
+
+Log
+Collide: 1
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 31
+
+Log
+Collide: 32
+
+Log
+Collide: 23
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 36
+
+Log
+Collide: 12
+
+Log
+Collide: 19
+
+Log
+Collide: 3
+
+Log
+Collide: 32
+
+Log
+Collide: 20
+
+Log
+Collide: 24
+
+Log
+Collide: 31
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 30
+
+Log
+Collide: 31
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 27
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 21
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 24
+
+Log
+Collide: 29
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 22
+
+Log
+Collide: 21
+
+Log
+Collide: 15
+
+Log
+Collide: 17
+
+Log
+Collide: 13
+
+Log
+Collide: 3
+
+Log
+Collide: 11
+
+Log
+Collide: 6
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 24
+
+Log
+Collide: 26
+
+Log
+Collide: 34
+
+Log
+Collide: 32
+
+Log
+Collide: 28
+
+Log
+Collide: 29
+
+Log
+Collide: 36
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 24
+
+Log
+Collide: 26
+
+Log
+Collide: 17
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 11
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 20
+
+Log
+Collide: 12
+
+Log
+Collide: 31
+
+Log
+Collide: 33
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 11
+
+Log
+Collide: 14
+
+Log
+Collide: 23
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 12
+
+Log
+Collide: 19
+
+Log
+Collide: 22
+
+Log
+Collide: 34
+
+Log
+Collide: 11
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 33
+
+Log
+Collide: 23
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 7
+
+Log
+Collide: 25
+
+Log
+Collide: 26
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 33
+
+Log
+Collide: 29
+
+22/07/2019 13:23:57
+ 
+Log
+displays connected: 1
+
+Exception
+IndexOutOfRangeException: Index was outside the bounds of the array.
+DisplayScript.Start () (at <9c7070a6116841d79151ba7d5bcdbcc7>:0)
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 21
+
+Log
+Collide: 19
+
+Log
+Collide: 11
+
+Log
+Collide: 24
+
+Log
+Collide: 10
+
+Log
+Collide: 5
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 9
+
+Log
+Collide: 1
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Collide: 16
+
+Log
+Collide: 7
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 29
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 12
+
+Log
+Collide: 9
+
+Log
+Collide: 3
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+Collide: 27
+
+Log
+Collide: 29
+
+Log
+Collide: 15
+
+Log
+Collide: 12
+
+Log
+Collide: 13
+
+Log
+Collide: 10
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 17
+
+Log
+Collide: 18
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 15
+
+Log
+Collide: 11
+
+Log
+Collide: 21
+
+Log
+Collide: 13
+
+Log
+Collide: 7
+
+Log
+Collide: 18
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 1
+
+Log
+Collide: 13
+
+Log
+Collide: 2
+
+Log
+Collide: 1
+
+Log
+Collide: 27
+
+Log
+Collide: 22
+
+Log
+Collide: 33
+
+Log
+Collide: 28
+
+Log
+Collide: 3
+
+Log
+Collide: 7
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 36
+
+Log
+Collide: 32
+
+Log
+Collide: 27
+
+Log
+Collide: 21
+
+Log
+Collide: 21
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Collide: 36
+
+Log
+Collide: 3
+
+Log
+Collide: 2
+
+Log
+Collide: 27
+
+Log
+Collide: 15
+
+Log
+Collide: 28
+
+Log
+Collide: 1
+
+Log
+Collide: 17
+
+Log
+Collide: 5
+
+Log
+Collide: 1
+
+Log
+Collide: 27
+
+Log
+Collide: 25
+
+Log
+Collide: 30
+
+Log
+Collide: 19
+
+Log
+Collide: 4
+
+Log
+Collide: 6
+
+Log
+Collide: 30
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 17
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 18
+
+Log
+Collide: 30
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 18
+
+Log
+Collide: 20
+
+Log
+Collide: 14
+
+Log
+Collide: 13
+
+Log
+Collide: 20
+
+Log
+Collide: 26
+
+Log
+Collide: 23
+
+Log
+Collide: 28
+
+Log
+Collide: 29
+
+Log
+Collide: 5
+
+Log
+Collide: 28
+
+Log
+Collide: 18
+
+Log
+Collide: 14
+
+Log
+Collide: 23
+
+Log
+Collide: 28
+
+Log
+Collide: 24
+
+Log
+Collide: 21
+
+Log
+Collide: 25
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 7
+
+Log
+Collide: 1
+
+Log
+Collide: 31
+
+Log
+Collide: 30
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 25
+
+Log
+Collide: 20
+
+Log
+Collide: 34
+
+Log
+Collide: 15
+
+Log
+Collide: 2
+
+Log
+Collide: 1
+
+Log
+Collide: 12
+
+Log
+Collide: 35
+
+Log
+Collide: 17
+
+Log
+Collide: 31
+
+Log
+Collide: 11
+
+Log
+Collide: 1
+
+Log
+Collide: 6
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 28
+
+Log
+Collide: 27
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 29
+
+Log
+Collide: 33
+
+Log
+Collide: 29
+
+Log
+Collide: 25
+
+Log
+Collide: 31
+
+Log
+Collide: 32
+
+Log
+Collide: 27
+
+Log
+Collide: 27
+
+Log
+Collide: 30
+
+Log
+Collide: 20
+
+Log
+Collide: 32
+
+Log
+Collide: 25
+
+Log
+Collide: 34
+
+Log
+Collide: 16
+
+Log
+Collide: 23
+
+Log
+Collide: 20
+
+Log
+Collide: 31
+
+Log
+Collide: 34
+
+Log
+Collide: 35
+
+Log
+Collide: 36
+
+Log
+Collide: 30
+
+Log
+Collide: 33
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 30
+
+Log
+Collide: 36
+
+Log
+Collide: 19
+
+Log
+Collide: 27
+
+Log
+Collide: 28
+
+Log
+Collide: 31
+
+Log
+Collide: 25
+
+Log
+Collide: 36
+
+Log
+Collide: 34
+
+Log
+Collide: 32
+
+Log
+Collide: 31
+
+Log
+Collide: 25
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 30
+
+Log
+Collide: 29
+
+Log
+Collide: 28
+
+Log
+Collide: 2
+
+Log
+Collide: 2
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 30
+
+Log
+Collide: 32
+
+Log
+Collide: 12
+
+Log
+Collide: 10
+
+Log
+Collide: 13
+
+Log
+Collide: 32
+
+Log
+Collide: 8
+
+Log
+Collide: 30
+
+Log
+Collide: 10
+
+Log
+Collide: 31
+
+Log
+Collide: 6
+
+Log
+Collide: 23
+
+Log
+Collide: 10
+
+Log
+Collide: 23
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Collide: 32
+
+Log
+Collide: 34
+
+Log
+Collide: 1
+
+Log
+Collide: 31
+
+Log
+Collide: 22
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 8
+
+Log
+Collide: 3
+
+Log
+Collide: 4
+
+Log
+Collide: 6
+
+Log
+Collide: 16
+
+Log
+Collide: 20
+
+Log
+Collide: 12
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 20
+
+Log
+Collide: 7
+
+Log
+Collide: 10
+
+Log
+Collide: 15
+
+Log
+Collide: 7
+
+Log
+Collide: 3
+
+Log
+Collide: 4
+
+Log
+Collide: 21
+
+Log
+Collide: 13
+
+Log
+Collide: 8
+
+Log
+Collide: 3
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 1
+
+Log
+Collide: 19
+
+Log
+Collide: 10
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 5
+
+Log
+Collide: 26
+
+Log
+Collide: 30
+
+Log
+Collide: 5
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 26
+
+Log
+Collide: 30
+
+Log
+Collide: 14
+
+Log
+Collide: 26
+
+Log
+Collide: 18
+
+Log
+Collide: 16
+
+Log
+Collide: 6
+
+Log
+Collide: 29
+
+Log
+Collide: 29
+
+Log
+Collide: 29
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Collide: 14
+
+Log
+Collide: 30
+
+Log
+Collide: 31
+
+Log
+Finished!
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
+Log
+Reset
+
+Log
+Deformation Parameters: force 20 springForce 30 damping 20
+
