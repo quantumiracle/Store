@@ -239,8 +239,8 @@ class TD3_Trainer():
         self.target_policy_net = self.target_ini(self.policy_net, self.target_policy_net)
         
 
-        q_lr = 3e-4
-        policy_lr = 3e-4
+        q_lr = 8e-4
+        policy_lr = 8e-4
         self.update_cnt = 0
         self.policy_target_update_interval = policy_target_update_interval
 
@@ -343,7 +343,7 @@ def plot(rewards):
 
 # choose env
 env_name="./tac_follow_new"
-env = UnityEnv(env_name, worker_id=18, use_visual=False, use_both=True)
+env = UnityEnv(env_name, worker_id=8, use_visual=False, use_both=True)
 model_path = './model/td3_random'
 
 
@@ -399,6 +399,7 @@ if __name__ == '__main__':
                 
                 if done:
                     break
+
               
             if eps % 20 == 0 and eps>0:
                 plot(rewards)
