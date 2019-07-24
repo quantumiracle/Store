@@ -439,7 +439,7 @@ if __name__ == '__main__':
 
     # choose env
     env_name="./tac_follow_new"
-    env = UnityEnv(env_name, worker_id=8, use_visual=False, use_both=True)
+    env = UnityEnv(env_name, worker_id=23, use_visual=False, use_both=True)
     model_path = './model/td3_random'
 
     # hyper-parameters for RL training
@@ -477,7 +477,7 @@ if __name__ == '__main__':
 
         rewards_queue=mp.Queue()  # used for get rewards from all processes and plot the curve
 
-        num_workers=2  # or: mp.cpu_count()
+        num_workers=5  # or: mp.cpu_count()
         processes=[]
         rewards=[]
 
