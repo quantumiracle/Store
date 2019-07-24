@@ -377,7 +377,7 @@ if __name__ == '__main__':
                     for i in range(update_itr):
                         _=sac_trainer.update(batch_size, reward_scale=10., auto_entropy=AUTO_ENTROPY, target_entropy=-1.*action_dim)
                 
-                if eps % 10 == 0 and eps>0:
+                if eps % 30 == 0 and eps>0:
                     plot(rewards)
                     sac_trainer.save_model(model_path)
                 
