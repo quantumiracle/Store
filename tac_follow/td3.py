@@ -343,7 +343,7 @@ def plot(rewards):
 
 # choose env
 env_name="./tac_follow_new"
-env = UnityEnv(env_name, worker_id=8, use_visual=False, use_both=True)
+env = UnityEnv(env_name, worker_id=18, use_visual=False, use_both=True)
 model_path = './model/td3_random'
 
 
@@ -392,11 +392,11 @@ if __name__ == '__main__':
                 state = next_state
                 episode_reward += reward
                 frame_idx += 1
-                
                 if len(replay_buffer) > batch_size:
                     for i in range(update_itr):
                         _=td3_trainer.update(batch_size, deterministic=DETERMINISTIC, eval_noise_scale=0.5, reward_scale=1.)
-                
+
+                    
                 if done:
                     break
 
