@@ -250,8 +250,8 @@ class TD3_Trainer():
         self.target_policy_net = self.target_ini(self.policy_net, self.target_policy_net)
         
 
-        q_lr = 8e-4
-        policy_lr = 8e-4
+        q_lr = 3e-4
+        policy_lr = 3e-4
         self.update_cnt = 0
         self.policy_target_update_interval = policy_target_update_interval
 
@@ -458,9 +458,6 @@ if __name__ == '__main__':
     manager.start()
     replay_buffer = manager.ReplayBuffer(replay_buffer_size)  # share the replay buffer through manager
 
-    # choose env
-    env_name="./tac_follow_new"
-    env = UnityEnv(env_name, worker_id=12, use_visual=False, use_both=True)
 
     # hyper-parameters for RL training
     max_episodes  = 300
@@ -483,7 +480,7 @@ if __name__ == '__main__':
 
 
     if args.train:
-        # td3_trainer.load_model(model_path)
+        td3_trainer.load_model(model_path)
         td3_trainer.q_net1.share_memory()
         td3_trainer.q_net2.share_memory()
         td3_trainer.target_q_net1.share_memory()
@@ -525,6 +522,10 @@ if __name__ == '__main__':
         print(rewards)
         
     if args.test:
+            # choose env
+        # env_name="./tac_follow_new"
+        env_name="./tac_follow_new_random"
+        env = UnityEnv(env_name, worker_id=13, use_visual=False, use_both=True)
         td3_trainer.load_model(model_path)
         eps_r=[]
         for eps in range(10):
@@ -544,3 +545,4 @@ if __name__ == '__main__':
             eps_r.append(episode_reward)
 
         print(eps_r)
+        print(np.average(eps_r))

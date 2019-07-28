@@ -462,7 +462,7 @@ if __name__ == '__main__':
 
 
     # hyper-parameters for RL training
-    max_episodes  = 300
+    max_episodes  = 1000
     max_steps   = 100
     batch_size  = 256
     explore_steps = 0  # for random action sampling in the beginning of training
@@ -483,7 +483,7 @@ if __name__ == '__main__':
 
 
     if args.train:
-        # td3_trainer.load_model(model_path)
+        td3_trainer.load_model(model_path)
         td3_trainer.q_net1.share_memory()
         td3_trainer.q_net2.share_memory()
         td3_trainer.target_q_net1.share_memory()
@@ -525,7 +525,8 @@ if __name__ == '__main__':
         
     if args.test:
         # choose env
-        env_name="./tac_follow_new"
+        # env_name="./tac_follow_new"
+        env_name="./tac_follow_new_random"
         env = UnityEnv(env_name, worker_id=23, use_visual=False, use_both=True)
         td3_trainer.load_model(model_path)
         eps_r=[]
@@ -544,6 +545,8 @@ if __name__ == '__main__':
 
             print('Episode: ', eps, '| Episode Reward: ', episode_reward)
             eps_r.append(episode_reward)
-
+       
+        print(eps_r)
         print(np.average(eps_r))
+
 

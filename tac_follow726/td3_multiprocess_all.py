@@ -31,7 +31,7 @@ from torch.multiprocessing import Process
 from multiprocessing import Process, Manager
 from multiprocessing.managers import BaseManager
 
-torch.manual_seed(1234)  #Reproducibility
+torch.manual_seed(14)  #Reproducibility
 
 GPU = True
 device_idx = 0
@@ -352,11 +352,8 @@ def worker(id, td3_trainer, rewards_queue, replay_buffer, max_episodes, max_step
     print(td3_trainer, replay_buffer)
 
     env_name="./tac_follow_new"
-    env = UnityEnv(env_name, worker_id=id+5, use_visual=False, use_both=True)
-    action_range=8.
-    state_dim = 6
-    # state_dim = 279
-    action_dim = 2
+    env = UnityEnv(env_name, worker_id=id+15, use_visual=False, use_both=True)
+
 
 
     # training loop
@@ -437,12 +434,9 @@ if __name__ == '__main__':
     manager.start()
     replay_buffer = manager.ReplayBuffer(replay_buffer_size)  # share the replay buffer through manager
 
-    # choose env
-    env_name="./tac_follow_new"
-    env = UnityEnv(env_name, worker_id=30, use_visual=False, use_both=True)
 
     # hyper-parameters for RL training
-    max_episodes  = 300
+    max_episodes  = 3000
     max_steps   = 100
     batch_size  = 256
     explore_steps = 0  # for random action sampling in the beginning of training
@@ -476,7 +470,7 @@ if __name__ == '__main__':
 
         rewards_queue=mp.Queue()  # used for get rewards from all processes and plot the curve
 
-        num_workers=6  # or: mp.cpu_count()
+        num_workers=2  # or: mp.cpu_count()
         processes=[]
         rewards=[]
 
@@ -504,6 +498,11 @@ if __name__ == '__main__':
         print(rewards)
         
     if args.test:
+        # choose env
+        # env_name="./tac_follow_new"
+        env_name="./tac_follow_new_random"
+        env = UnityEnv(env_name, worker_id=3, use_visual=False, use_both=True)
+        eps_r=[]
         td3_trainer.load_model(model_path)
         for eps in range(10):
             state, info = env.reset()
@@ -518,3 +517,7 @@ if __name__ == '__main__':
                 state=next_state
 
             print('Episode: ', eps, '| Episode Reward: ', episode_reward)
+            eps_r.append(episode_reward)
+
+        print(eps_r)
+        print(np.average(eps_r))
