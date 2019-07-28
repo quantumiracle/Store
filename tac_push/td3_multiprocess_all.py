@@ -351,7 +351,7 @@ def worker(id, td3_trainer, rewards_queue, replay_buffer, max_episodes, max_step
     '''
     print(td3_trainer, replay_buffer)
 
-    env_name="./tac_follow_new"
+    env_name="./tac_push"
     env = UnityEnv(env_name, worker_id=id+15, use_visual=False, use_both=True)
 
 
@@ -444,9 +444,9 @@ if __name__ == '__main__':
     explore_noise_scale=1.0
     eval_noise_scale=0.5
     reward_scale = 1.0
-    action_range=8.
+    action_range=1.
     # state_dim = 6
-    state_dim = 279
+    state_dim = 282
     action_dim = 2
     hidden_dim = 128
     policy_target_update_interval = 3 # delayed update for the policy network and target networks
@@ -457,7 +457,7 @@ if __name__ == '__main__':
 
 
     if args.train:
-        td3_trainer.load_model(model_path)
+        # td3_trainer.load_model(model_path)
         td3_trainer.q_net1.share_memory()
         td3_trainer.q_net2.share_memory()
         td3_trainer.target_q_net1.share_memory()
@@ -470,7 +470,7 @@ if __name__ == '__main__':
 
         rewards_queue=mp.Queue()  # used for get rewards from all processes and plot the curve
 
-        num_workers=2  # or: mp.cpu_count()
+        num_workers=5  # or: mp.cpu_count()
         processes=[]
         rewards=[]
 
@@ -499,8 +499,7 @@ if __name__ == '__main__':
         
     if args.test:
         # choose env
-        # env_name="./tac_follow_new"
-        env_name="./tac_follow_new_random"
+        env_name="./tac_push"
         env = UnityEnv(env_name, worker_id=3, use_visual=False, use_both=True)
         eps_r=[]
         td3_trainer.load_model(model_path)
