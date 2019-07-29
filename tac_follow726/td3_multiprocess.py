@@ -351,7 +351,7 @@ def worker(id, td3_trainer, rewards_queue, replay_buffer, max_episodes, max_step
     '''
     print(td3_trainer, replay_buffer)
 
-    env_name="./tac_follow_new"
+    env_name="./tac_follow_new3"
     env = UnityEnv(env_name, worker_id=id, use_visual=False, use_both=True)
     action_range=8.
     state_dim = 6
@@ -475,7 +475,7 @@ if __name__ == '__main__':
 
         rewards_queue=mp.Queue()  # used for get rewards from all processes and plot the curve
 
-        num_workers=6  # or: mp.cpu_count()
+        num_workers=2  # or: mp.cpu_count()
         processes=[]
         rewards=[]
 
