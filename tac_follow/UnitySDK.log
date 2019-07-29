@@ -1,0 +1,12506 @@
+26/07/2019 17:32:59
+ 
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (0.1, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+Collide: 32
+
+Log
+pin position: (0.4, 1.0, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+32
+
+Log
+pin position: (0.4, 1.0, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.3, 1.0, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 33
+
+Log
+18
+
+Log
+pin position: (0.3, 1.0, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 34
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+18
+
+Log
+pin position: (0.3, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (0.7, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+26
+
+Log
+pin position: (0.9, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.8, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+18
+
+Log
+pin position: (1.0, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+Collide: 18
+
+Log
+pin position: (0.7, 1.1, 1.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.6, 1.1, 1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 18
+
+Log
+pin position: (0.4, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+18
+
+Log
+pin position: (0.8, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+Collide: 17
+
+Log
+pin position: (0.9, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+17
+
+Log
+pin position: (1.4, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (1.4, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 32
+
+Log
+17
+
+Log
+pin position: (1.5, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+Collide: 18
+
+Log
+pin position: (1.7, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+32
+
+Log
+pin position: (1.4, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 21
+
+Log
+pin position: (1.3, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+17
+
+Log
+pin position: (1.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 32
+
+Log
+pin position: (0.7, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+13
+
+Log
+pin position: (0.6, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 27
+
+Log
+pin position: (0.5, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+17
+
+Log
+pin position: (0.4, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 25
+
+Log
+pin position: (0.2, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+27
+
+Log
+pin position: (-0.1, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 30
+
+Log
+pin position: (0.4, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+17
+
+Log
+pin position: (0.6, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 25
+
+Log
+pin position: (1.0, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+28
+
+Log
+pin position: (1.4, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 31
+
+Log
+pin position: (1.7, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+17
+
+Log
+pin position: (1.3, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 32
+
+Log
+pin position: (0.8, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+30
+
+Log
+pin position: (0.6, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 29
+
+Log
+pin position: (0.9, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+17
+
+Log
+pin position: (0.7, 1.2, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 28
+
+Log
+pin position: (0.4, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+31
+
+Log
+pin position: (0.5, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+pin position: (0.6, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+16
+
+Log
+pin position: (0.6, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+pin position: (0.5, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+17
+
+Log
+pin position: (0.7, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (0.9, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+18
+
+Log
+pin position: (1.2, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 8
+
+Log
+pin position: (1.3, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+36
+
+Log
+pin position: (1.6, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 26
+
+Log
+pin position: (2.0, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+16
+
+Log
+pin position: (2.1, 1.2, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 14
+
+Log
+pin position: (1.9, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+26
+
+Log
+pin position: (2.3, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 26
+
+Log
+pin position: (2.1, 1.2, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+26
+
+Log
+pin position: (1.8, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 33
+
+Log
+pin position: (2.3, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+30
+
+Log
+pin position: (2.7, 1.2, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 23
+
+Log
+pin position: (2.4, 1.2, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+30
+
+Log
+pin position: (2.6, 1.2, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+pin position: (2.9, 1.2, 1.6)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+28
+
+Log
+pin position: (2.6, 1.2, 2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+Collide: 23
+
+Log
+pin position: (2.3, 1.2, 2.2)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (2.5, 1.2, 1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+Collide: 10
+
+Log
+pin position: (2.4, 1.2, 1.6)
+
+Log
+speed:System.Single[]
+
+Log
+9
+
+Log
+5
+
+Log
+pin position: (2.2, 1.2, 1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+pin position: (1.8, 1.2, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+19
+
+Log
+pin position: (1.9, 1.2, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 29
+
+Log
+pin position: (1.8, 1.2, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+32
+
+Log
+pin position: (1.8, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 26
+
+Log
+pin position: (2.1, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+33
+
+Log
+pin position: (2.5, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 31
+
+Log
+pin position: (2.0, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+31
+
+Log
+pin position: (1.6, 1.3, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 14
+
+Log
+pin position: (1.5, 1.3, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+19
+
+Log
+pin position: (1.7, 1.3, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 30
+
+Log
+pin position: (2.0, 1.3, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+17
+
+Log
+pin position: (1.6, 1.3, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 13
+
+Log
+pin position: (1.3, 1.2, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+17
+
+Log
+pin position: (1.6, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 27
+
+Log
+pin position: (1.3, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+32
+
+Log
+pin position: (1.6, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+pin position: (1.2, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+18
+
+Log
+pin position: (1.5, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 16
+
+Log
+pin position: (1.8, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+8
+
+Log
+17
+
+Log
+pin position: (1.7, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 31
+
+Log
+pin position: (1.9, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+29
+
+Log
+pin position: (1.9, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (1.6, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.6, 1.2, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 17
+
+Log
+pin position: (1.5, 1.2, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+15
+
+Log
+pin position: (1.2, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+pin position: (1.6, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+28
+
+Log
+pin position: (1.8, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 31
+
+Log
+pin position: (1.8, 1.2, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+33
+
+Log
+17
+
+Log
+pin position: (2.1, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 27
+
+Log
+pin position: (2.5, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+18
+
+Log
+pin position: (2.8, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+pin position: (3.1, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+27
+
+Log
+16
+
+Log
+pin position: (2.8, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 28
+
+Log
+Collide: 7
+
+Log
+pin position: (2.9, 1.2, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+17
+
+Log
+17
+
+Log
+Reset
+
+Log
+pin position: (0.1, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+17
+
+Log
+pin position: (0.2, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+Collide: 18
+
+Log
+pin position: (0.1, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+28
+
+Log
+pin position: (-0.3, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (0.0, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+16
+
+Log
+pin position: (0.3, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (0.7, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+23
+
+Log
+pin position: (1.0, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 25
+
+Log
+pin position: (1.4, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+18
+
+Log
+pin position: (1.2, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 22
+
+Log
+pin position: (1.5, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+10
+
+Log
+pin position: (1.6, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (1.5, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+16
+
+Log
+pin position: (1.8, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+Collide: 18
+
+Log
+pin position: (1.6, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+17
+
+Log
+pin position: (1.8, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 16
+
+Log
+pin position: (1.8, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+18
+
+Log
+pin position: (2.1, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+Collide: 18
+
+Log
+pin position: (2.0, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+17
+
+Log
+pin position: (1.5, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.5, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+Collide: 14
+
+Log
+pin position: (1.6, 1.1, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (1.3, 1.1, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+Collide: 10
+
+Log
+pin position: (0.9, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+18
+
+26/07/2019 17:39:33
+ 
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.0, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.0, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.1, 1.0, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.0, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-0.2, 1.0, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.3, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.3, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.4, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.4, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.5, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+16
+
+Log
+pin position: (-0.6, 1.0, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.6, 1.0, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.6, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.7, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.8, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.8, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+11
+
+Log
+17
+
+Log
+pin position: (-0.9, 1.0, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 28
+
+Log
+pin position: (-1.0, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+13
+
+Log
+pin position: (-1.1, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 22
+
+Log
+pin position: (-1.1, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+17
+
+Log
+pin position: (-1.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.2, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-1.2, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 5
+
+Log
+pin position: (-1.3, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+14
+
+Log
+pin position: (-1.4, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (-1.5, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.6, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-1.6, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.6, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+17
+
+Log
+pin position: (-1.7, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-1.6, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-1.6, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.7, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+17
+
+Log
+pin position: (-1.7, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.7, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+16
+
+Log
+pin position: (-1.8, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-1.9, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-1.8, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.9, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+15
+
+Log
+pin position: (-1.8, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.9, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+17
+
+Log
+pin position: (-2.0, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 18
+
+Log
+pin position: (-2.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-2.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 16
+
+Log
+pin position: (-2.2, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+16
+
+Log
+pin position: (-2.3, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-2.3, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-2.3, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-2.4, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-2.4, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-2.3, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+18
+
+Log
+pin position: (-2.5, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 17
+
+Log
+pin position: (-2.7, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-2.7, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (-2.7, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+9
+
+Log
+pin position: (-2.8, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 4
+
+Log
+pin position: (-2.9, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+4
+
+Log
+16
+
+Log
+pin position: (-3.0, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-3.0, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+13
+
+Log
+pin position: (-3.2, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+pin position: (-3.2, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-3.2, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.3, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.3, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.4, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+Collide: 1
+
+Log
+pin position: (-3.5, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.5, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.5, 1.0, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-3.5, 1.0, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.5, 1.0, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.6, 1.0, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.5, 1.0, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-3.7, 1.0, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+8
+
+Log
+pin position: (-3.8, 1.0, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.7, 1.0, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.8, 1.0, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.7, 1.0, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.8, 1.0, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.9, 1.0, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.0, 1.0, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.0, 1.0, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-4.1, 1.0, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.0, 1.0, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-4.0, 1.0, -2.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.0, 1.0, -2.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.1, 1.0, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.2, 1.0, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.2, 1.0, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (-4.3, 1.0, -3.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.3, 1.0, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.2, 1.0, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 11
+
+Log
+pin position: (-4.2, 1.0, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.3, 1.0, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.4, 1.0, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 3
+
+Log
+pin position: (-4.5, 1.0, -3.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.6, 1.0, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.7, 1.0, -4.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.8, 1.0, -4.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.7, 1.0, -3.9)
+
+Log
+speed:System.Single[]
+
+26/07/2019 17:45:11
+ 
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-0.1, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.1, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-0.1, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.2, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.2, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.2, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (-0.4, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.4, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.5, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.4, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.6, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+14
+
+Log
+pin position: (-0.5, 1.0, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.6, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.7, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 10
+
+Log
+pin position: (-0.8, 1.0, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+18
+
+Log
+pin position: (-0.9, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.9, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+16
+
+Log
+pin position: (-0.9, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.8, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+17
+
+Log
+pin position: (-0.9, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 13
+
+Log
+pin position: (-1.1, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+15
+
+Log
+pin position: (-1.2, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 8
+
+Log
+pin position: (-1.1, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+15
+
+Log
+pin position: (-1.2, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.3, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+16
+
+Log
+pin position: (-1.3, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 19
+
+Log
+pin position: (-1.5, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+21
+
+Log
+pin position: (-1.6, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 21
+
+Log
+pin position: (-1.5, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+18
+
+Log
+pin position: (-1.7, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.6, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+16
+
+Log
+pin position: (-1.6, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.6, 1.1, 1.5)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.1, 1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 23
+
+Log
+pin position: (-1.8, 1.1, 1.6)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+22
+
+Log
+pin position: (-2.1, 1.1, 1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 5
+
+Log
+pin position: (-2.2, 1.1, 1.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+15
+
+Log
+pin position: (-2.3, 1.1, 1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+pin position: (-2.4, 1.1, 1.9)
+
+Log
+speed:System.Single[]
+
+Log
+19
+
+Log
+pin position: (-2.2, 1.2, 2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+pin position: (-2.3, 1.2, 2.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.4, 1.2, 2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.7, 1.2, 2.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.7, 1.2, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.6, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-2.4, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (-2.4, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.3, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.3, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-2.6, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (-2.8, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.0, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-3.3, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+5
+
+Log
+pin position: (-3.5, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-3.9, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.8, 1.1, 2.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-4.1, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.3, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.1, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.2, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-3.8, 1.1, 2.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.0, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.8, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.7, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.6, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-4.0, 1.1, 2.6)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (-4.2, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+pin position: (-4.5, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-4.7, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.9, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.8, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.8, 1.1, 2.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.9, 1.1, 2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-5.4, 1.1, 2.2)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (-5.2, 1.1, 2.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (-5.1, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (-5.4, 1.1, 2.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-5.4, 1.1, 2.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+pin position: (-5.2, 1.1, 2.8)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-5.6, 1.1, 2.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-5.6, 1.1, 3.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-5.5, 1.1, 3.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-5.7, 1.1, 3.7)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-5.8, 1.2, 3.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (-6.1, 1.2, 3.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-6.1, 1.2, 3.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+pin position: (-6.2, 1.2, 3.7)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (-6.4, 1.2, 3.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+pin position: (-6.5, 1.2, 4.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-6.5, 1.2, 4.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+pin position: (-6.6, 1.1, 3.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-6.5, 1.1, 4.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-6.3, 1.1, 4.1)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-6.7, 1.1, 3.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 33
+
+Log
+pin position: (-6.5, 1.1, 3.4)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-6.0, 1.1, 3.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-5.7, 1.1, 3.6)
+
+Log
+speed:System.Single[]
+
+Log
+34
+
+Log
+pin position: (-5.7, 1.2, 3.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-5.7, 1.2, 3.1)
+
+Log
+speed:System.Single[]
+
+26/07/2019 17:50:19
+ 
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.0, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+15
+
+Log
+pin position: (-0.2, 1.0, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.3, 1.0, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.3, 1.0, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.1, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.1, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.0, 1.0, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.1, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 30
+
+Log
+pin position: (-0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+18
+
+Log
+pin position: (0.1, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 17
+
+Log
+pin position: (0.1, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.2, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.3, 1.0, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 13
+
+Log
+pin position: (0.2, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+4
+
+Log
+pin position: (0.3, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 4
+
+Log
+pin position: (0.3, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+18
+
+Log
+pin position: (0.5, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.5, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.6, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.6, 1.0, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+17
+
+Log
+pin position: (0.5, 1.0, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+Collide: 18
+
+Log
+pin position: (0.4, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+12
+
+Log
+pin position: (0.5, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.5, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 18
+
+Log
+pin position: (0.5, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.4, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 14
+
+Log
+pin position: (0.5, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.5, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 15
+
+Log
+pin position: (0.5, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+25
+
+Log
+pin position: (0.4, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 16
+
+Log
+pin position: (0.3, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+17
+
+Log
+pin position: (0.2, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (0.1, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+22
+
+Log
+pin position: (0.3, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 22
+
+Log
+pin position: (0.4, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+7
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (0.3, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.2, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 5
+
+Log
+pin position: (0.2, 1.2, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (0.2, 1.2, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 13
+
+Log
+pin position: (0.2, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.2, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (0.2, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+16
+
+Log
+pin position: (0.1, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.2, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.2, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+16
+
+Log
+pin position: (-0.1, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.3, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-0.4, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-0.3, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-0.4, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.4, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+18
+
+Log
+pin position: (-0.6, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.6, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+15
+
+Log
+pin position: (-0.7, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 24
+
+Log
+pin position: (-1.0, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+14
+
+Log
+pin position: (-1.1, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.2, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-1.2, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-1.3, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-1.2, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.3, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+8
+
+Log
+pin position: (-1.3, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (-1.3, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+14
+
+Log
+pin position: (-1.5, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.5, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 16
+
+Log
+pin position: (-1.8, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-1.9, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-2.0, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-2.0, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-2.1, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+17
+
+Log
+pin position: (-1.9, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-1.8, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-1.8, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 8
+
+Log
+pin position: (-1.8, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-1.8, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-1.7, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+18
+
+Log
+pin position: (-1.7, 1.0, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.5, 1.0, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+8
+
+Log
+18
+
+Log
+pin position: (-1.5, 1.0, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 26
+
+Log
+pin position: (-1.6, 1.0, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+7
+
+Log
+pin position: (-1.7, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 6
+
+Log
+pin position: (-1.7, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 6
+
+Log
+pin position: (-1.5, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+11
+
+Log
+pin position: (-1.6, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 22
+
+Log
+pin position: (-1.5, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (-1.6, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.6, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-1.7, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 15
+
+Log
+pin position: (-1.7, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+18
+
+Log
+pin position: (-1.5, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (-1.5, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.0, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+18
+
+Log
+pin position: (0.1, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 6
+
+Log
+Collide: 18
+
+Log
+pin position: (0.0, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.1, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 8
+
+Log
+pin position: (-0.2, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+24
+
+Log
+pin position: (-0.1, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 15
+
+Log
+pin position: (0.0, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.0, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 12
+
+Log
+pin position: (-0.2, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.2, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 19
+
+Log
+pin position: (0.0, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+19
+
+Log
+pin position: (0.1, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 12
+
+Log
+pin position: (-0.1, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+2
+
+Log
+15
+
+Log
+pin position: (-0.2, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.2, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.2, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.3, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.2, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-0.2, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.1, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.1, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.0, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.1, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (0.0, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 24
+
+Log
+pin position: (0.1, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+8
+
+Log
+pin position: (0.1, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 32
+
+Log
+pin position: (0.1, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+16
+
+Log
+pin position: (0.2, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.2, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 17
+
+Log
+pin position: (0.3, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+pin position: (0.4, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 15
+
+Log
+pin position: (0.5, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+9
+
+Log
+pin position: (0.6, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (0.6, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+17
+
+Log
+pin position: (0.7, 1.1, 1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+pin position: (0.7, 1.1, 1.5)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (0.7, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.7, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+7
+
+Log
+pin position: (0.8, 1.1, 1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (0.8, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (0.9, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (1.0, 1.1, 1.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (1.0, 1.1, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (1.0, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (1.0, 1.1, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+pin position: (1.0, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (1.0, 1.1, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+pin position: (1.1, 1.0, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (1.1, 1.0, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (1.1, 1.0, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+18
+
+Log
+pin position: (1.3, 1.0, 1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (1.3, 1.1, 1.1)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (1.3, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.3, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.4, 1.1, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (1.5, 1.1, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (1.5, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.5, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.6, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.6, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.6, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (1.7, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (1.6, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 14
+
+Log
+pin position: (1.7, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (1.7, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 11
+
+Log
+pin position: (1.8, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (1.8, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.9, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (2.0, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (1.9, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+7
+
+Log
+18
+
+Log
+pin position: (2.0, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 30
+
+Log
+pin position: (2.1, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (2.1, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 18
+
+Log
+pin position: (2.1, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+17
+
+Log
+pin position: (2.1, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (2.1, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+18
+
+Log
+pin position: (2.1, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (2.1, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+18
+
+Log
+pin position: (2.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (2.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+17
+
+Log
+pin position: (2.1, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+Collide: 18
+
+Log
+pin position: (2.2, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+22
+
+Log
+pin position: (2.1, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (2.1, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+17
+
+Log
+pin position: (2.1, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+Collide: 16
+
+Log
+pin position: (2.0, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+22
+
+Log
+pin position: (1.9, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 6
+
+Log
+pin position: (1.9, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (1.8, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 3
+
+Log
+pin position: (1.8, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+16
+
+Log
+pin position: (1.8, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+Collide: 17
+
+Log
+pin position: (1.7, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+10
+
+Log
+pin position: (1.7, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.7, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.7, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+Collide: 13
+
+Log
+pin position: (1.8, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (1.8, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (1.8, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.8, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+16
+
+Log
+pin position: (0.0, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+18
+
+Log
+pin position: (0.0, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.1, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (0.3, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+17
+
+Log
+pin position: (0.5, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+Collide: 17
+
+Log
+pin position: (0.5, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+16
+
+Log
+pin position: (0.7, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 31
+
+Log
+pin position: (0.7, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+16
+
+Log
+pin position: (0.8, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 24
+
+Log
+pin position: (0.6, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+17
+
+Log
+pin position: (0.5, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 4
+
+Log
+pin position: (0.6, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+7
+
+Log
+pin position: (0.6, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 4
+
+Log
+pin position: (0.7, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+14
+
+Log
+pin position: (0.8, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 4
+
+Log
+pin position: (0.7, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+26
+
+Log
+pin position: (1.0, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 23
+
+Log
+pin position: (0.9, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+16
+
+Log
+pin position: (0.9, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 24
+
+Log
+pin position: (1.1, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+15
+
+Log
+pin position: (1.2, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (1.2, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+16
+
+Log
+pin position: (1.3, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+Collide: 16
+
+Log
+pin position: (1.4, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+17
+
+Log
+pin position: (1.6, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 32
+
+Log
+pin position: (1.5, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.5, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 22
+
+Log
+pin position: (1.6, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.6, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 22
+
+Log
+pin position: (1.7, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (1.7, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 4
+
+Log
+pin position: (1.7, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+20
+
+Log
+pin position: (1.7, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 21
+
+Log
+pin position: (1.7, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+18
+
+Log
+pin position: (1.8, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 27
+
+Log
+pin position: (1.9, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+12
+
+Log
+pin position: (1.9, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (1.8, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+12
+
+Log
+pin position: (2.0, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 18
+
+Log
+pin position: (2.1, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+19
+
+Log
+pin position: (2.2, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (2.2, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+17
+
+Log
+pin position: (2.4, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 17
+
+Log
+pin position: (2.4, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (2.5, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 8
+
+Log
+pin position: (2.5, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (2.6, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 15
+
+Log
+pin position: (2.6, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+18
+
+Log
+pin position: (2.5, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+pin position: (2.7, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+5
+
+Log
+11
+
+Log
+pin position: (2.8, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 25
+
+Log
+pin position: (2.8, 1.1, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.9, 1.1, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (3.1, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+22
+
+Log
+pin position: (3.2, 1.1, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+pin position: (3.2, 1.1, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+25
+
+Log
+pin position: (3.1, 1.1, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.2, 1.1, -2.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.1, 1.1, -2.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 11
+
+Log
+Collide: 29
+
+Log
+pin position: (3.1, 1.1, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+33
+
+Log
+pin position: (3.1, 1.1, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 17
+
+Log
+pin position: (3.1, 1.1, -4.2)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+16
+
+Log
+pin position: (3.1, 1.1, -4.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.2, 1.1, -4.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.2, 1.1, -4.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 11
+
+Log
+pin position: (2.9, 1.1, -4.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.0, 1.1, -4.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (3.0, 1.1, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+7
+
+Log
+pin position: (3.0, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (3.1, 1.1, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.1, 1.1, -5.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+pin position: (3.2, 1.1, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+27
+
+Log
+pin position: (3.2, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+Collide: 13
+
+Log
+pin position: (3.3, 1.1, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (3.2, 1.1, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+pin position: (3.0, 1.1, -5.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.9, 1.1, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.8, 1.1, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (3.0, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (2.8, 1.1, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.8, 1.1, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (2.7, 1.1, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.8, 1.1, -5.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+pin position: (2.6, 1.1, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.7, 1.1, -6.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.7, 1.1, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+Collide: 15
+
+Log
+pin position: (2.3, 1.1, -6.8)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (2.4, 1.1, -6.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (2.3, 1.1, -7.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (2.2, 1.1, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (2.1, 1.1, -7.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (2.0, 1.1, -7.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.8, 1.1, -7.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.7, 1.1, -7.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.7, 1.1, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.7, 1.1, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (1.6, 1.1, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.1, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 14
+
+Log
+pin position: (0.2, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+13
+
+Log
+pin position: (0.4, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 26
+
+Log
+pin position: (0.4, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+18
+
+Log
+pin position: (0.5, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 28
+
+Log
+pin position: (0.5, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.6, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 22
+
+Log
+pin position: (0.6, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+4
+
+Log
+pin position: (0.5, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (0.3, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+18
+
+Log
+pin position: (0.3, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+28
+
+Log
+pin position: (0.0, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (0.2, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+18
+
+Log
+pin position: (0.1, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 21
+
+Log
+pin position: (0.2, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.3, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.4, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+18
+
+Log
+pin position: (0.4, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+Collide: 15
+
+Log
+pin position: (0.7, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+20
+
+Log
+pin position: (0.8, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 25
+
+Log
+pin position: (0.7, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+4
+
+Log
+18
+
+Log
+pin position: (0.6, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 21
+
+Log
+pin position: (0.7, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+14
+
+Log
+pin position: (0.8, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 26
+
+Log
+pin position: (0.8, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+17
+
+Log
+pin position: (0.8, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 23
+
+Log
+pin position: (1.0, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+22
+
+Log
+pin position: (1.2, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (1.1, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+18
+
+Log
+pin position: (1.5, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 21
+
+Log
+pin position: (1.4, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+27
+
+Log
+pin position: (1.6, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 21
+
+Log
+pin position: (1.5, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+17
+
+Log
+pin position: (1.5, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+Collide: 16
+
+Log
+pin position: (1.6, 1.2, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+17
+
+Log
+pin position: (1.6, 1.2, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 24
+
+Log
+pin position: (1.6, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.6, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 8
+
+Log
+pin position: (1.7, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.8, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 19
+
+Log
+pin position: (1.9, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+5
+
+Log
+17
+
+Log
+pin position: (2.1, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 14
+
+Log
+pin position: (2.2, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+5
+
+Log
+pin position: (2.2, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (2.1, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+18
+
+Log
+pin position: (2.1, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (2.2, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+18
+
+Log
+pin position: (2.2, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+Collide: 18
+
+Log
+pin position: (2.2, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+23
+
+Log
+pin position: (2.3, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (2.4, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (2.5, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (2.5, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+17
+
+Log
+pin position: (2.5, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+Collide: 16
+
+Log
+pin position: (2.5, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (2.5, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 19
+
+Log
+pin position: (2.6, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+17
+
+Log
+pin position: (2.7, 1.2, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 23
+
+Log
+pin position: (2.8, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+18
+
+Log
+pin position: (2.9, 1.2, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 21
+
+Log
+pin position: (2.8, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+18
+
+Log
+pin position: (2.8, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 21
+
+Log
+pin position: (2.9, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (2.9, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 11
+
+Log
+pin position: (3.0, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (3.1, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 21
+
+Log
+pin position: (3.2, 1.1, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+19
+
+Log
+pin position: (3.1, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (3.1, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+17
+
+Log
+pin position: (3.1, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 18
+
+Log
+pin position: (3.1, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+14
+
+Log
+pin position: (3.2, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 8
+
+Log
+pin position: (3.3, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 11
+
+Log
+16
+
+Log
+21
+
+Log
+pin position: (3.3, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 17
+
+Log
+pin position: (3.4, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+5
+
+Log
+pin position: (3.4, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (3.4, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 5
+
+Log
+15
+
+Log
+pin position: (3.4, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (3.5, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+Collide: 18
+
+Log
+14
+
+Log
+pin position: (3.4, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (3.4, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 16
+
+Log
+17
+
+Log
+pin position: (3.3, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 13
+
+Log
+Collide: 15
+
+Log
+pin position: (3.1, 1.1, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+21
+
+Log
+pin position: (3.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 9
+
+Log
+pin position: (3.0, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+9
+
+Log
+pin position: (3.1, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 20
+
+Log
+pin position: (3.1, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+17
+
+Log
+pin position: (3.1, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 27
+
+Log
+pin position: (3.1, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+23
+
+Log
+pin position: (2.8, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 29
+
+Log
+Collide: 16
+
+Log
+pin position: (2.7, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (2.8, 1.1, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 19
+
+Log
+pin position: (2.7, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (2.8, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 27
+
+Log
+pin position: (2.5, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+18
+
+Log
+pin position: (2.7, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 15
+
+Log
+Reset
+
+Log
+pin position: (0.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (0.2, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+18
+
+Log
+pin position: (0.4, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 15
+
+Log
+pin position: (0.5, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.4, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 27
+
+Log
+pin position: (0.5, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+25
+
+Log
+pin position: (0.7, 1.1, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 24
+
+Log
+pin position: (0.9, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+11
+
+Log
+16
+
+Log
+pin position: (0.9, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 23
+
+Log
+pin position: (1.0, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.0, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 4
+
+Log
+pin position: (1.1, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (1.2, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 28
+
+Log
+pin position: (1.4, 1.1, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+30
+
+Log
+pin position: (1.2, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 23
+
+Log
+pin position: (1.3, 1.2, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+18
+
+Log
+pin position: (1.2, 1.2, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+Collide: 11
+
+Log
+pin position: (0.8, 1.2, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (0.9, 1.2, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (0.7, 1.2, -4.0)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (0.9, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (0.7, 1.2, -3.5)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (0.6, 1.2, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (0.4, 1.2, -3.5)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+pin position: (0.3, 1.2, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.2, 1.2, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (0.3, 1.2, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (0.0, 1.2, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+32
+
+Log
+pin position: (0.1, 1.2, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (0.5, 1.2, -6.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.3, 1.2, -6.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+pin position: (0.2, 1.2, -6.6)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (0.0, 1.2, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.2, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.4, 1.2, -7.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (0.6, 1.2, -7.0)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (0.0, 1.2, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 36
+
+Log
+pin position: (-0.5, 1.2, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (-0.3, 1.2, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+pin position: (-0.4, 1.2, -8.1)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-0.4, 1.2, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-0.2, 1.2, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-0.7, 1.2, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 7
+
+Log
+pin position: (-0.9, 1.2, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (-1.2, 1.2, -8.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-1.2, 1.2, -7.5)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+pin position: (-1.4, 1.2, -7.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-1.2, 1.2, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.1, 1.2, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-1.1, 1.2, -7.7)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-1.2, 1.2, -7.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (-1.4, 1.2, -8.1)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (-1.7, 1.2, -8.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (-1.4, 1.2, -8.0)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-1.6, 1.2, -7.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (-1.9, 1.2, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.9, 1.2, -7.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-2.0, 1.2, -8.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.9, 1.2, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-2.1, 1.2, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (-2.5, 1.1, -7.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-2.5, 1.1, -8.2)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-2.8, 1.1, -8.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (-3.0, 1.1, -8.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.0, 1.1, -8.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-3.5, 1.1, -8.5)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-3.3, 1.1, -7.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 32
+
+Log
+pin position: (-3.8, 1.1, -7.2)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-3.4, 1.1, -7.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-3.2, 1.1, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-3.1, 1.2, -7.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-3.5, 1.2, -7.0)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-3.7, 1.2, -7.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.7, 1.2, -7.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-4.1, 1.2, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-4.1, 1.2, -7.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 33
+
+Log
+pin position: (-4.1, 1.1, -6.6)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-3.9, 1.2, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-3.5, 1.2, -6.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.5, 1.2, -6.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+pin position: (-3.7, 1.1, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-3.3, 1.2, -6.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-2.9, 1.2, -6.0)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+pin position: (-2.8, 1.2, -6.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-2.5, 1.2, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (-2.4, 1.2, -5.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.3, 1.2, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-1.7, 1.2, -6.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-2.1, 1.2, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-2.4, 1.2, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (-3.0, 1.2, -6.7)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+pin position: (-2.5, 1.2, -6.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (-2.5, 1.2, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (-2.7, 1.2, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-2.4, 1.2, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+7
+
+Log
+pin position: (-2.2, 1.2, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-2.0, 1.2, -6.2)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-2.2, 1.2, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-2.6, 1.2, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (-2.7, 1.2, -5.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+16
+
+Log
+pin position: (0.1, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+Collide: 17
+
+Log
+pin position: (0.3, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.3, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.2, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.2, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 12
+
+Log
+pin position: (0.4, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+28
+
+Log
+pin position: (0.4, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 27
+
+Log
+pin position: (0.2, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+17
+
+Log
+pin position: (0.1, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 17
+
+Log
+pin position: (0.3, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+28
+
+Log
+pin position: (0.5, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 5
+
+Log
+pin position: (0.5, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+18
+
+Log
+pin position: (0.4, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 13
+
+Log
+pin position: (0.5, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+17
+
+Log
+pin position: (0.5, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 8
+
+Log
+pin position: (0.6, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+17
+
+Log
+pin position: (0.8, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.8, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+17
+
+Log
+pin position: (1.1, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+Collide: 18
+
+Log
+pin position: (1.3, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+17
+
+Log
+pin position: (1.4, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 19
+
+Log
+pin position: (1.5, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+16
+
+Log
+pin position: (1.6, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 26
+
+Log
+pin position: (1.6, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.7, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (1.6, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+17
+
+Log
+pin position: (1.7, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+Collide: 18
+
+Log
+pin position: (1.8, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+17
+
+Log
+pin position: (1.9, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 8
+
+Log
+Collide: 16
+
+Log
+pin position: (1.9, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+8
+
+Log
+pin position: (2.0, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 17
+
+Log
+pin position: (2.0, 1.2, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+17
+
+Log
+pin position: (2.0, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (2.1, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+17
+
+Log
+pin position: (2.2, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (2.1, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+17
+
+Log
+pin position: (2.2, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (2.3, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (2.2, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 24
+
+Log
+pin position: (2.3, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+23
+
+Log
+pin position: (2.3, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (2.4, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+17
+
+Log
+pin position: (2.4, 1.2, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+Collide: 18
+
+Log
+pin position: (2.4, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+15
+
+Log
+pin position: (2.3, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (2.3, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+4
+
+Log
+pin position: (2.2, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 17
+
+Log
+pin position: (2.0, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+17
+
+Log
+pin position: (1.7, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 21
+
+Log
+pin position: (1.7, 1.1, -2.9)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+pin position: (1.6, 1.1, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (1.3, 1.1, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+30
+
+Log
+pin position: (1.7, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+Collide: 12
+
+Log
+pin position: (1.9, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+11
+
+Log
+pin position: (1.6, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+Collide: 27
+
+Log
+pin position: (1.7, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+33
+
+Log
+pin position: (1.1, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (0.9, 1.1, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (1.2, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (1.4, 1.1, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (1.4, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+pin position: (1.3, 1.2, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 6
+
+Log
+28
+
+Log
+pin position: (1.2, 1.2, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (1.3, 1.2, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+28
+
+Log
+pin position: (1.3, 1.2, -2.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (1.1, 1.2, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (1.3, 1.2, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.3, 1.2, -3.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (1.0, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (1.4, 1.2, -4.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (1.1, 1.2, -4.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.9, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (0.9, 1.2, -4.3)
+
+Log
+speed:System.Single[]
+
+Log
+3
+
+Log
+pin position: (0.8, 1.2, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (0.9, 1.2, -3.8)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (0.7, 1.2, -3.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (0.5, 1.2, -4.0)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (0.3, 1.2, -4.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 3
+
+Log
+pin position: (0.2, 1.2, -4.1)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (0.6, 1.2, -3.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (0.4, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.3, 1.2, -4.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (0.3, 1.2, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.4, 1.2, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (0.4, 1.2, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (0.1, 1.2, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.1, 1.2, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (0.3, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (0.5, 1.2, -4.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (0.3, 1.2, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (0.8, 1.2, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (0.3, 1.2, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (0.1, 1.2, -4.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-0.1, 1.2, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (-0.4, 1.2, -5.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (0.0, 1.2, -4.9)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (0.1, 1.2, -5.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 32
+
+Log
+pin position: (-0.2, 1.2, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (0.2, 1.2, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (0.1, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+18
+
+Log
+pin position: (0.0, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+Collide: 17
+
+Log
+pin position: (0.2, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+8
+
+Log
+16
+
+Log
+pin position: (0.4, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+pin position: (0.5, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.6, 1.2, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 23
+
+Log
+pin position: (0.8, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+16
+
+Log
+pin position: (0.9, 1.2, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 11
+
+Log
+pin position: (1.0, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.9, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 27
+
+Log
+pin position: (0.9, 1.2, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+7
+
+Log
+pin position: (1.0, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 33
+
+Log
+pin position: (1.3, 1.1, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+33
+
+Log
+18
+
+Log
+pin position: (1.6, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 25
+
+Log
+pin position: (1.8, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+19
+
+Log
+pin position: (2.0, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 24
+
+Log
+pin position: (2.0, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+17
+
+Log
+pin position: (2.0, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 23
+
+Log
+pin position: (1.7, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.7, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 15
+
+Log
+pin position: (1.3, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (1.3, 1.1, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+pin position: (1.3, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.2, 1.1, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+Collide: 15
+
+Log
+pin position: (0.6, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (0.3, 1.1, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 10
+
+Log
+pin position: (0.3, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.5, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 17
+
+Log
+pin position: (0.0, 1.1, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+16
+
+Log
+pin position: (0.2, 1.1, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.1, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-0.6, 1.1, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.1, 1.1, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-0.1, 1.1, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+pin position: (-0.3, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 6
+
+Log
+25
+
+Log
+pin position: (0.3, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.2, 1.1, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (0.3, 1.1, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (0.7, 1.1, -2.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (1.0, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+pin position: (1.2, 1.1, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (0.9, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+pin position: (1.6, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (1.1, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (1.1, 1.1, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (1.2, 1.1, -3.5)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (1.1, 1.2, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (1.1, 1.2, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (0.8, 1.2, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (0.8, 1.2, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (0.9, 1.2, -3.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.1, 1.2, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (-0.1, 1.2, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.3, 1.2, -2.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-0.2, 1.2, -2.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-0.5, 1.2, -3.2)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-1.1, 1.2, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-1.2, 1.2, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (-1.7, 1.2, -3.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+Collide: 9
+
+Log
+pin position: (-1.1, 1.2, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+28
+
+Log
+pin position: (-1.4, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.7, 1.2, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+4
+
+Log
+pin position: (-2.0, 1.2, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.1, 1.2, -3.2)
+
+Log
+speed:System.Single[]
+
+Log
+32
+
+Log
+pin position: (-2.2, 1.2, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-2.1, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+25
+
+Log
+pin position: (-2.3, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 7
+
+Log
+pin position: (-2.2, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+17
+
+Log
+pin position: (-2.2, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+Collide: 18
+
+Log
+pin position: (-2.1, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+3
+
+Log
+5
+
+Log
+pin position: (-1.9, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.0, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.2, 1.2, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (-2.0, 1.2, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.2, 1.2, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+31
+
+Log
+pin position: (-2.2, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+Collide: 17
+
+Log
+pin position: (-2.5, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+27
+
+Log
+pin position: (-2.1, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+Collide: 18
+
+Log
+pin position: (-2.5, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+14
+
+Log
+pin position: (-2.9, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+Collide: 9
+
+Log
+pin position: (-2.9, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.9, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 22
+
+Log
+pin position: (-2.7, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+10
+
+Log
+19
+
+Log
+pin position: (-2.5, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 18
+
+Log
+pin position: (-2.9, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+18
+
+Log
+pin position: (-3.0, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 3
+
+Log
+pin position: (-2.8, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.8, 1.1, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 30
+
+Log
+pin position: (-2.5, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.7, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-2.5, 1.1, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.2, 1.1, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-2.2, 1.1, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+Collide: 18
+
+Log
+pin position: (-2.0, 1.1, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+18
+
+Log
+pin position: (-1.7, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.9, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.1, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 30
+
+Log
+pin position: (-1.7, 1.1, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+30
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.0, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.1, 1.1, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 27
+
+Log
+pin position: (0.0, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+4
+
+Log
+17
+
+Log
+pin position: (-0.1, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.1, 1.1, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+17
+
+Log
+pin position: (-0.1, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.1, 1.1, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (-0.2, 1.1, -0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 12
+
+Log
+pin position: (0.0, 1.1, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+27
+
+Log
+pin position: (0.1, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (0.1, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (0.0, 1.1, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 13
+
+Log
+pin position: (0.2, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+16
+
+Log
+pin position: (0.3, 1.1, -1.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 31
+
+Log
+pin position: (0.3, 1.1, -2.1)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+23
+
+Log
+pin position: (-0.1, 1.1, -2.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (0.5, 1.1, -3.0)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (0.8, 1.1, -3.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (0.9, 1.1, -3.6)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (1.6, 1.1, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (1.4, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+pin position: (1.0, 1.1, -3.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.9, 1.1, -3.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (1.1, 1.1, -3.7)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+pin position: (0.8, 1.1, -4.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (1.0, 1.1, -4.6)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (1.1, 1.1, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (0.8, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (0.3, 1.1, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-0.2, 1.1, -5.1)
+
+Log
+speed:System.Single[]
+
+Log
+27
+
+Log
+pin position: (0.2, 1.1, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (0.1, 1.1, -5.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (0.3, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (0.3, 1.1, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (0.6, 1.1, -5.2)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-0.4, 1.1, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (-0.8, 1.1, -5.8)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-0.5, 1.1, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-0.4, 1.1, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+pin position: (-0.7, 1.1, -6.1)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-1.0, 1.1, -6.4)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.1, 1.1, -6.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.1, 1.1, -6.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+pin position: (-1.4, 1.1, -5.7)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-1.3, 1.1, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-0.7, 1.1, -5.1)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (-0.7, 1.1, -5.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-0.7, 1.2, -5.0)
+
+Log
+speed:System.Single[]
+
+Log
+23
+
+Log
+pin position: (0.0, 1.2, -5.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+pin position: (0.0, 1.1, -6.0)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+pin position: (0.0, 1.2, -6.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 20
+
+Log
+pin position: (0.2, 1.2, -6.5)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (0.2, 1.2, -7.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 35
+
+Log
+pin position: (-0.5, 1.2, -7.4)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-0.7, 1.2, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+pin position: (-1.1, 1.2, -7.8)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-1.1, 1.2, -8.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-1.2, 1.2, -8.9)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-1.5, 1.2, -8.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-1.3, 1.2, -9.5)
+
+Log
+speed:System.Single[]
+
+Log
+4
+
+Log
+pin position: (-1.3, 1.2, -9.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-1.6, 1.2, -9.8)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (-1.4, 1.2, -9.8)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.5, 1.2, -9.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (-2.1, 1.2, -9.3)
+
+Log
+speed:System.Single[]
+
+Log
+33
+
+Log
+pin position: (-2.4, 1.2, -9.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-2.6, 1.2, -9.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-2.3, 1.2, -9.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 9
+
+Log
+pin position: (-2.1, 1.2, -9.6)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-3.0, 1.2, -10.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-3.2, 1.2, -10.3)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-3.0, 1.2, -10.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 34
+
+Log
+pin position: (-2.7, 1.2, -10.8)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-2.6, 1.2, -11.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.4, 1.2, -10.7)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+pin position: (-2.8, 1.2, -11.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 31
+
+Log
+pin position: (-2.6, 1.2, -11.4)
+
+Log
+speed:System.Single[]
+
+Log
+15
+
+Log
+pin position: (-2.9, 1.2, -11.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+pin position: (-2.9, 1.2, -11.7)
+
+Log
+speed:System.Single[]
+
+Log
+20
+
+Log
+pin position: (-2.6, 1.2, -11.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-2.6, 1.2, -11.0)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+pin position: (-2.1, 1.2, -10.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 5
+
+Log
+pin position: (-2.0, 1.2, -10.7)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-1.9, 1.2, -11.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-2.2, 1.2, -11.0)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (-2.5, 1.2, -10.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 21
+
+Log
+pin position: (-2.3, 1.2, -11.2)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+pin position: (-2.6, 1.2, -11.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 24
+
+Log
+pin position: (-2.6, 1.2, -11.1)
+
+Log
+speed:System.Single[]
+
+Log
+33
+
+Log
+pin position: (-2.9, 1.2, -10.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+pin position: (-3.3, 1.2, -10.1)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+pin position: (-3.5, 1.2, -9.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 29
+
+Log
+pin position: (-3.2, 1.2, -10.4)
+
+Log
+speed:System.Single[]
+
+Log
+26
+
+Log
+pin position: (-3.3, 1.2, -10.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+pin position: (-3.3, 1.2, -11.2)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-3.2, 1.2, -11.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 28
+
+Log
+pin position: (-3.5, 1.2, -11.8)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+pin position: (-3.7, 1.2, -11.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+pin position: (-3.5, 1.2, -11.7)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+pin position: (-3.5, 1.2, -11.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 13
+
+Log
+Reset
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 19
+
+Log
+18
+
+Log
+pin position: (-0.3, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.3, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+21
+
+Log
+pin position: (-0.6, 1.2, -0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 31
+
+Log
+pin position: (-0.5, 1.2, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+24
+
+Log
+18
+
+Log
+pin position: (-0.9, 1.2, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 33
+
+Log
+pin position: (-0.8, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+19
+
+Log
+pin position: (-0.9, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 17
+
+Log
+pin position: (-1.1, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+14
+
+Log
+pin position: (-1.2, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 31
+
+Log
+pin position: (-1.3, 1.2, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+33
+
+Log
+pin position: (-1.0, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 8
+
+Log
+pin position: (-0.8, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+12
+
+Log
+18
+
+Log
+pin position: (-0.9, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 28
+
+Log
+pin position: (-0.7, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+14
+
+Log
+31
+
+Log
+pin position: (-0.5, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.4, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (-0.5, 1.2, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (-0.4, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+19
+
+Log
+17
+
+Log
+pin position: (-0.2, 1.2, -0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 8
+
+Log
+pin position: (-0.3, 1.2, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+25
+
+Log
+pin position: (-0.5, 1.2, -0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 9
+
+Log
+pin position: (-0.4, 1.2, -0.7)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+17
+
+Log
+pin position: (-0.4, 1.2, -0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 32
+
+Log
+pin position: (-0.3, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+31
+
+Log
+pin position: (0.0, 1.2, -2.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+pin position: (0.2, 1.2, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+31
+
+Log
+pin position: (-0.1, 1.2, -2.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 11
+
+Log
+pin position: (-0.2, 1.2, -2.5)
+
+Log
+speed:System.Single[]
+
+Log
+30
+
+Log
+pin position: (-0.1, 1.2, -2.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 22
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.6, 1.2, -1.4)
+
+Log
+speed:System.Single[]
+
+Log
+13
+
+Log
+15
+
+Log
+pin position: (-0.6, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 30
+
+Log
+pin position: (-0.8, 1.2, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+19
+
+Log
+pin position: (-1.0, 1.2, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 30
+
+Log
+pin position: (-1.1, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+28
+
+Log
+pin position: (-1.4, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 26
+
+Log
+pin position: (-1.4, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+24
+
+Log
+pin position: (-1.4, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 28
+
+Log
+pin position: (-1.8, 1.2, -1.9)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+18
+
+Log
+pin position: (-1.6, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 30
+
+Log
+pin position: (-1.5, 1.2, -1.1)
+
+Log
+speed:System.Single[]
+
+Log
+28
+
+Log
+18
+
+Log
+pin position: (-1.2, 1.2, -1.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+Collide: 18
+
+Log
+pin position: (-1.0, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+29
+
+Log
+18
+
+Log
+pin position: (-1.3, 1.2, -1.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 32
+
+Log
+pin position: (-0.9, 1.2, -1.7)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+33
+
+Log
+pin position: (-1.1, 1.2, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 27
+
+Log
+pin position: (-1.0, 1.2, -3.5)
+
+Log
+speed:System.Single[]
+
+Log
+33
+
+Log
+pin position: (-0.9, 1.2, -2.3)
+
+Log
+speed:System.Single[]
+
+Log
+pin position: (-1.0, 1.2, -2.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 4
+
+Log
+Collide: 28
+
+Log
+pin position: (-0.9, 1.2, -1.8)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+31
+
+Log
+pin position: (-0.6, 1.2, -1.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 14
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.7, 1.2, -1.0)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+27
+
+Log
+pin position: (-0.5, 1.2, -0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 16
+
+Log
+Collide: 25
+
+Log
+pin position: (-0.5, 1.2, 0.0)
+
+Log
+speed:System.Single[]
+
+Log
+9
+
+Log
+17
+
+Log
+pin position: (-0.6, 1.2, 0.1)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 24
+
+Log
+pin position: (-0.5, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+7
+
+Log
+pin position: (-0.6, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.6, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 15
+
+Log
+16
+
+Log
+pin position: (-0.7, 1.2, 0.9)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.7, 1.2, 0.8)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 27
+
+Log
+17
+
+Log
+pin position: (-0.6, 1.2, 0.4)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 12
+
+Log
+Collide: 18
+
+Log
+pin position: (-0.6, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (-0.5, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 16
+
+Log
+pin position: (-0.4, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+25
+
+Log
+18
+
+Log
+pin position: (-0.1, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 26
+
+Log
+pin position: (-0.5, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+16
+
+Log
+pin position: (-0.2, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+pin position: (-0.3, 1.2, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 26
+
+Log
+17
+
+Log
+pin position: (0.3, 1.2, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+pin position: (0.2, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 23
+
+Log
+17
+
+Log
+pin position: (0.4, 1.1, 1.0)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 25
+
+Log
+Collide: 18
+
+Log
+pin position: (0.5, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+18
+
+Log
+pin position: (0.5, 1.1, 0.7)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 15
+
+Log
+pin position: (0.7, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+22
+
+Log
+18
+
+Log
+pin position: (0.9, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 18
+
+Log
+Collide: 12
+
+Log
+pin position: (1.0, 1.1, 0.5)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+pin position: (1.0, 1.1, 0.6)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 25
+
+Log
+pin position: (1.2, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+16
+
+Log
+pin position: (1.1, 1.1, 0.3)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 13
+
+Log
+pin position: (1.1, 1.1, 0.2)
+
+Log
+speed:System.Single[]
+
+Log
+17
+
+Log
+28
+
+Log
+pin position: (1.2, 1.1, -0.2)
+
+Log
+speed:System.Single[]
+
+Log
+Collide: 17
+
+Log
+Collide: 23
+
+Log
+pin position: (1.5, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
+Log
+21
+
+Log
+14
+
+Log
+pin position: (1.7, 1.1, -0.6)
+
+Log
+speed:System.Single[]
+
